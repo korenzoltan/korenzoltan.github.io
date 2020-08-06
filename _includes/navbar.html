@@ -1,0 +1,75 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">
+      <img data-src="{{ '/assets/images/logo.png' | relative_url }}" alt="logo"
+        class="lazyload" />
+    </a>
+    <button class="navbar-toggler collapsed" type="button"
+      data-toggle="collapse" data-target="#navbarMenu"
+      aria-controls="navbarMenu" aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarMenu">
+      <ul class="navbar-nav">
+        {% for item in site.translations[site.lang].menu %}
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+            href="{{ site.url }}{{ site.baseurl }}/#{{ item.slug }}">
+            {{ item.title }}
+          </a>
+          <span class="chevron collapsed"></span>
+          <div class="dropdown-menu dropdown-menu-right">
+            {% for subitem in item.submenu %}
+            <a class="dropdown-item"
+              href="{{ site.url }}{{ site.baseurl }}/{{ subitem.slug }}">
+              {{ subitem.title }}
+            </a>
+            {% endfor %}
+          </div>
+        </li>
+        {% endfor %}
+        <li class="nav-item dropdown languages-dropdown">
+          <a class="nav-link languages" href="#">
+            <i class="languages-pictogram"></i>
+            {{ site.lang }}
+          </a>
+          <span class="chevron collapsed"></span>
+          <div class="dropdown-menu dropdown-menu-right">
+            {% for lang in site.languageNames %}
+            {% if lang[0] == site.language_default %}
+            {% if lang[0] == site.lang %}
+            <a class="dropdown-item active"
+              href="{{ site.baseurl_root }}{{ page.url }}">
+              <span class="languages-code">{{ lang[0] }}</span>
+              {{ lang[1] }}
+            </a>
+            {% else %}
+            <a class="dropdown-item"
+              href="{{ site.baseurl_root }}{{ page.url }}">
+              <span class="languages-code">{{ lang[0] }}</span>
+              {{ lang[1] }}
+            </a>
+            {% endif %}
+            {% else %}
+            {% if lang[0] == site.lang %}
+            <a class="dropdown-item active"
+              href="{{ site.baseurl_root }}/{{ lang[0] }}{{ page.url }}">
+              <span class="languages-code">{{ lang[0] }}</span>
+              {{ lang[1] }}
+            </a>
+            {% else %}
+            <a class="dropdown-item"
+              href="{{ site.baseurl_root }}/{{ lang[0] }}{{ page.url }}">
+              <span class="languages-code">{{ lang[0] }}</span>
+              {{ lang[1] }}
+            </a>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,78 @@
+.home {
+  .intro {
+    position: relative;
+    background: linear-gradient(rgba(0, 0, 0, .5) 80%, #000),
+      url(./../../assets/images/home/intro.jpg) bottom/cover no-repeat;
+    min-height: 80vh;
+
+    img {
+      max-width: 100%;
+    }
+  }
+
+  .headline {
+    position: absolute;
+    right: 10%;
+    top: 14%;
+    overflow: hidden;
+    z-index: 3;
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      background-color: $gold-drop;
+      animation: a-ltr-after 2s cubic-bezier(.77, 0, .18, 1) forwards;
+      transform: translateX(-101%);
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      animation: a-ltr-before 2s cubic-bezier(.77, 0, .18, 1) forwards;
+      transform: translateX(0);
+    }
+
+    &:nth-of-type(1)::before,
+    &:nth-of-type(1)::after {
+      animation-delay: 1s;
+    }
+
+    &:nth-of-type(2)::before,
+    &:nth-of-type(2)::after {
+      animation-delay: 1s;
+    }
+
+    h1,
+    h2 {
+      display: block;
+      position: relative;
+      margin-bottom: 4px;
+      color: $white;
+      text-align: right;
+      overflow: hidden;
+      animation: fadeInRight 3s cubic-bezier(.77, 0, .18, 1) forwards;
+    }
+  }
+
+  #tools>div,
+  #about,
+  #contact {
+    padding-top: 50px;
+  }
+
+  #contact {
+    padding-bottom: 100px;
+  }
+
+  #our-clients {
+    padding-bottom: 20px;
+  }
+}

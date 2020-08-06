@@ -1,0 +1,12 @@
+.btn {
+  &--bg-color {
+    &-persian-green {
+      color: $white !important;
+      background-color: $persian-green;
+
+      &:hover {
+        background-color: $persian-green-2;
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+.contact {
+  &-box {
+    padding: 30px 20px;
+    background-color: $white;
+    border-radius: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  }
+
+  &-info {
+    img {
+      margin-right: 24px;
+      width: 40px;
+    }
+
+    .contact {
+      margin-top: 24px;
+
+      >div {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+    }
+  }
+
+  h2 {
+    margin-bottom: 16px;
+  }
+
+  sup {
+    color: $candy-apple;
+    font-weight: $font-weight-bold;
+  }
+
+  label {
+    font-family: Soho Medium;
+    font-size: $font-size-small;
+  }
+
+  .form-control {
+    border-radius: 0;
+
+    &:active,
+    &:focus,
+    &:hover {
+      border-color: $persian-green;
+    }
+  }
+
+  .btn {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .alert {
+    display: none;
+    margin-top: 8px;
+  }
+
+  .spinner-border {
+    display: none;
+    margin-right: 5px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .contact {
+    .col-12:first-child {
+      padding-left: 50px;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .contact {
+    .col-12:first-child {
+      padding-left: 25px;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .contact {
+    .col-12:first-child {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .contact {
+    &-info {
+      margin-bottom: 50px;
+    }
+  }
+}

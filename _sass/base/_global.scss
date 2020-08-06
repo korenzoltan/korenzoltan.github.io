@@ -1,0 +1,337 @@
+a,
+button,
+input,
+textarea,
+select {
+  border: none;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-bottom: 24px;
+  font-family: Soho Bold;
+}
+
+a {
+  color: inherit;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: $persian-green;
+    text-decoration: underline !important;
+  }
+}
+
+blockquote {
+  position: relative;
+  margin: 30px 0 30px auto;
+  max-width: 600px;
+  width: 100%;
+  color: $emperor;
+  background-color: $gallery;
+  border-left: 8px solid $persian-green;
+  font-style: italic;
+
+  &::before {
+    content: '\201C';
+    position: absolute;
+    left: 10px;
+    color: $persian-green;
+  }
+
+  p {
+    text-align: right;
+  }
+
+  p:last-child {
+    font-family: Soho Bold;
+    color: $mine-shaft;
+  }
+}
+
+.page-title-hidden {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.alert {
+  border-radius: 0;
+  font-size: $font-size-extra-small;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+.lazyload,
+.lazyloading {
+  opacity: 0;
+}
+
+.lazyloaded {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.carousel-bar {
+  background-color: #111;
+  padding: 25px 50px;
+}
+
+.carousel-inner {
+  margin: 0 auto;
+}
+
+.carousel-item {
+  text-align: center;
+
+  a {
+    display: inline-block;
+  }
+
+  img {
+    object-fit: cover;
+  }
+}
+
+.carousel-item-left.active,
+.carousel-item-prev:not(.carousel-item-right) {
+  transform: translateX(-100%)
+}
+
+.carousel-control-prev {
+  max-width: 80px;
+
+  &-icon {
+    background-image: url(./../../assets/icons/left-arrow.svg);
+  }
+
+  &:active,
+  &:focus,
+  &:hover {
+    .carousel-control-prev-icon {
+      background-image: url(./../../assets/icons/left-arrow-hover.svg);
+    }
+  }
+}
+
+.carousel-control-next {
+  max-width: 80px;
+
+  &-icon {
+    background-image: url(./../../assets/icons/right-arrow.svg);
+  }
+
+  &:active,
+  &:focus,
+  &:hover {
+    .carousel-control-next-icon {
+      background-image: url(./../../assets/icons/right-arrow-hover.svg);
+    }
+  }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  transition: none;
+}
+
+.table-responsive {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media screen and (min-width: 768px) {
+  blockquote {
+    padding: 20px 20px 10px 90px;
+
+    &::before {
+      top: -10px;
+      font-size: 100px;
+    }
+
+    p:last-child {
+      font-size: $font-size-extra-large;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  h1 {
+    font-size: $font-size-mega-large;
+  }
+
+  h2 {
+    font-size: $font-size-extreme-large;
+  }
+
+  h3 {
+    font-size: $font-size-extra-large;
+  }
+
+  h4 {
+    font-size: $font-size-large;
+  }
+
+  h5 {
+    font-size: $font-size-medium;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: $font-size-extra-large;
+  }
+
+  h2 {
+    font-size: $font-size-large;
+  }
+
+  h3 {
+    font-size: $font-size-medium;
+  }
+
+  h4 {
+    font-size: $font-size-medium;
+  }
+
+  h5 {
+    font-size: $font-size-medium;
+  }
+
+  blockquote {
+    padding: 20px 20px 10px 50px;
+
+    &::before {
+      top: 10px;
+      font-size: $font-size-mega-large;
+    }
+
+    p:last-child {
+      font-size: $font-size-large;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .carousel-item {
+    margin-right: 0;
+  }
+
+  /* show 3 items */
+  .carousel-inner .active+.carousel-item,
+  .carousel-inner .active+.carousel-item+.carousel-item,
+  .carousel-inner .active+.carousel-item+.carousel-item+.carousel-item {
+    display: block;
+  }
+
+  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item,
+  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item+.carousel-item {
+    transition: none;
+  }
+
+  /* Show 4th slide on md if col-md-4 */
+  .carousel-inner .active.col-md-4.carousel-item+.carousel-item+.carousel-item+.carousel-item {
+    position: absolute;
+    top: 0;
+    right: -33.3333%;
+    display: block;
+    visibility: visible;
+  }
+
+  .carousel-inner .carousel-item-next {
+    position: relative;
+    transform: translate3d(0, 0, 0);
+  }
+
+  /* left or forward direction */
+  .carousel-item-next.carousel-item-left+.carousel-item,
+  .carousel-item-next.carousel-item-left+.carousel-item+.carousel-item,
+  .carousel-item-next.carousel-item-left+.carousel-item+.carousel-item+.carousel-item {
+    position: relative;
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  }
+
+  /* right or prev direction //t - previous slide direction last item animation fix */
+  .carousel-item-prev.carousel-item-right+.carousel-item,
+  .carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item,
+  .carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item+.carousel-item {
+    position: relative;
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+    display: block;
+    visibility: visible;
+  }
+
+  /* left or forward direction */
+  .active.carousel-item-left+.carousel-item-next.carousel-item-left,
+  .carousel-item-next.carousel-item-left+.carousel-item,
+  .carousel-item-next.carousel-item-left+.carousel-item+.carousel-item {
+    position: relative;
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  }
+
+  /* right or prev direction */
+  .active.carousel-item-right+.carousel-item-prev.carousel-item-right,
+  .carousel-item-prev.carousel-item-right+.carousel-item,
+  .carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item {
+    position: relative;
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+    display: block;
+    visibility: visible;
+  }
+
+  /* farthest right hidden item must be also positioned for animations */
+  .carousel-inner .carousel-item-prev.carousel-item-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+  }
+
+  .carousel-inner {
+    max-width: 90%;
+  }
+
+  .carousel-control-prev {
+    left: -6%;
+  }
+
+  .carousel-control-next {
+    right: -6%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .carousel-control-prev {
+    left: -12%;
+  }
+
+  .carousel-control-next {
+    right: -12%;
+  }
+}

@@ -1,0 +1,54 @@
+global:
+  title: Medios fuera de casa.
+  copyright: Todos los derechos reservados.
+
+titles:
+  home: Fuera de casa
+  four-wheel-ad: Anuncio de cuatro ruedas
+  moving-billboard: Cartelera móvil
+  out-of-home-ad: Publicidad fuera de casa
+  references: Referencias
+  legal-notice: Aviso Legal
+  privacy-policy: Política de privacidad
+
+menu:
+  - title: PromoBike
+    slug: promobike
+    submenu:
+      - title: Anuncio de cuatro ruedas
+        slug: four-wheel-ad
+
+  - title: PromoVan
+    slug: promovan
+    submenu:
+      - title: Cartelera móvil
+        slug: moving-billboard
+
+  - title: Sobre nosotros
+    slug: about
+    submenu:
+      - title: Publicidad fuera de casa
+        slug: out-of-home-ad
+
+  - title: Contactos
+    slug: contact
+    submenu:
+      - title: Referencias
+        slug: references
+
+contact:
+  title: Contactos
+  description: Póngase en contacto con nuestro centro húngaro, que responderá todas sus preguntas en 1 día.
+  name: Nombre
+  email: Correo electrónico
+  message: Mensaje
+  submit: Enviar
+  incorrect: Por favor rellene este campo
+  incorrect-email: Por favor introduzca una dirección de correo electrónico válida
+  success: ¡Mensaje enviado con éxito! ¡Nos pondremos en contacto con usted pronto!
+  error: Mensaje no enviado Hubo un problema con el servidor. Pedimos disculpas y por favor sea paciente!
+  address: Üllői út 169., 1091 Budapest, Hungría
+  phone-text: +36 20 776 4647
+
+footer:
+  description: Fuera de casa.
