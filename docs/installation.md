@@ -1,12 +1,12 @@
-# Promogroup
+# Installation
 
-### Install npm packages
+## Install npm packages
 
 Install the `npm` packages described in the `package.json`:
 
 `npm install`
 
-### npm scripts
+## npm scripts
 
 These are the most useful commands defined in `package.json`:
 
@@ -15,7 +15,7 @@ These are the most useful commands defined in `package.json`:
 - `npm run watch` - Run in tests in watch mode.
 - `npm run clean` - Delete `_site` folder.
 
-### Other scripts
+## Other scripts
 
 These are the other commands in `gulpfile.js`:
 
@@ -31,11 +31,15 @@ These are the other commands in `gulpfile.js`:
 - `gulp css-clean` - Delete compiled `main.min.css` file.
 - `gulp js` - Compile JS partials to `main.min.js` file.
 - `gulp js-clean` - Delete compiled `main.min.js` file.
-- `gulp imagegm` - Image manipulation with GraphicsMagick.
-- `gulp imagegm-tools-thumbnail` - Generate thumbnails from images of tools.
+- `gulp imagegm-home-tools` - Resize images of tools.
+- `gulp imagegm-home-tools-thumbnail` - Resize and make thumbnails of tools.
+- `gulp imagegm-promobike-pages-thumbnail` - Resize and make thumbnails of promobike page.
+- `gulp imagegm-promovan-pages-thumbnail` - Resize and make thumbnails of promovan page.
 - `gulp imagemin` - Minify images.
+- `gulp optimize-images` - Run imagegm and imagemin.
+- `gulp thumbnail-clean` - Delete thumbnails.
 
-### Formspark.io
+## Formspark.io
 
 First you need to register this [link](https://formspark.io/) and create a form.
 
