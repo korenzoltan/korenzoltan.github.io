@@ -13,10 +13,10 @@ titles:
   privacy-policy: Adatkezelési tájékoztató
 
 menu:
-  - title: PromoBike
+  - title: PromoBikes
     slug: promobike
     submenu:
-      - title: Négykerekű hirdetés
+      - title: Négykerekű hirdetések
         slug: four-wheel-ad
 
   - title: PromoVan
