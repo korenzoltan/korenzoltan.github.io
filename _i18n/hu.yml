@@ -14,7 +14,7 @@ titles:
 
 menu:
   - title: PromoBikes
-    slug: promobike
+    slug: promobikes
     submenu:
       - title: Négykerekű hirdetések
         slug: four-wheel-ad
