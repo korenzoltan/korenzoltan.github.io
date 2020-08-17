@@ -13,11 +13,11 @@ titles:
   privacy-policy: Adatkezelési tájékoztató
 
 menu:
-- title: City Light 
-    slug: City light 
+  - title: City Light 
+    slug: city light 
     submenu:
       - title: City Light posters
-        slug:City light
+        slug: City light
         
   - title: PromoBikes
     slug: promobikes
