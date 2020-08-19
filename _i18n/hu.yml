@@ -19,8 +19,8 @@ menu:
       - title: City Light posters
         slug: City light
         
-  - title: PromoBike-reklám kerékpár
-    slug: promobike-reklám kerékpár
+  - title: PromoBike
+    slug: promobike
     submenu:
       - title: Négykerekű hirdetések
         slug: four-wheel-ad
