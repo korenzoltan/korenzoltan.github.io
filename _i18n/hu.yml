@@ -19,14 +19,14 @@ menu:
       - title: City Light posters
         slug: City light
         
-  - title: PromoBike-Reklám kerékpár
+  - title: PromoBike-reklám kerékpár
     slug: promobike-reklám kerékpár
     submenu:
       - title: Négykerekű hirdetések
         slug: four-wheel-ad
 
-  - title: PromoVan
-    slug: promovan
+  - title: PromoVan-Reklám teherautó
+    slug: promovan-Reklám teherautó
     submenu:
       - title: Mozgó óriásplakát
         slug: moving-billboard
