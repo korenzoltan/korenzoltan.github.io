@@ -12,13 +12,6 @@ titles:
   legal-notice: Jogi nyilatkozat
   privacy-policy: Adatkezelési tájékoztató
 
-menu:
-  - title: City Light 
-    slug: city light 
-    submenu:
-      - title: City Light posters
-        slug: City light
-        
   - title: PromoBike
     slug: promobike
     submenu:
