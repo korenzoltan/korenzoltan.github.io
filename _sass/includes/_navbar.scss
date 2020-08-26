@@ -193,11 +193,20 @@
     }
 
     .chevron {
+      flex: 1;
       margin-right: 15px;
-      max-width: 60%;
       width: 100%;
       min-height: 40px;
       float: right;
+    }
+
+    .dropdown {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .dropdown-menu {
+      width: 100%;
     }
 
     .dropdown.show .languages {
