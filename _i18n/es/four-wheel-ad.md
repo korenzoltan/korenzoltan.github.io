@@ -1,15 +1,15 @@
 {% include main-image.html src="promobike/four-wheel-ad/gosser.jpg" %}
 
-# Anuncio de cuatro ruedas
+# Négykerekű hirdetés
 
-Servicios relacionados
+Kapcsolódó szolgáltatások
 
-- planificación de campañas optimizada para el grupo objetivo
-- Direcciones
-- Formación profesional de promotores basada en la información proporcionada por el cliente.
-- proporcionar espacios publicitarios (carteles de citylight)
-- imprimir y colocar gráficos
-- informe diario del fotógrafo
-- Rastreo GPS en línea
-- informe de cierre de campaña
-- Video de la campaña
+- kampánytervezés célcsoportra optimalizálva
+- útvonaltervezés
+- promóterek szakmai felkészítése az ügyfél által adott információk alapján
+- kihangosítás
+- megvilágítás
+- napi fotós riport
+- online GPS nyomonkövetés
+- kampány záróriport
+- kampányvideó
