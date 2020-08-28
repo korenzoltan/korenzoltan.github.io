@@ -7,8 +7,8 @@ Kapcsolódó szolgáltatások
 - kampánytervezés célcsoportra optimalizálva
 - útvonaltervezés
 - promóterek szakmai felkészítése az ügyfél által adott információk alapján
-- reklámfelületek biztosítása (citylight plakátok)
-- grafika nyomtatása és kihelyezése
+- kihangosítás
+- megvilágítás
 - napi fotós riport
 - online GPS nyomonkövetés
 - kampány záróriport
