@@ -23,7 +23,7 @@ description: ''
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 
-company: Promo Solutions Kft.EU-VAT: 
+company: Promo Solutions Kft.
 google-url: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
 phone-number: 36207764647
 email:
@@ -32,13 +32,13 @@ email:
   top-level-domain: hu
 
 facebook:
-  username: https://www.facebook.com/oohweb
+  username: oohweb
 
 twitter:
-  username: johndoe
+  username:
 
 linkedin:
-  username: johndoe
+  username:
 
 # Build settings
 theme: minima
@@ -46,12 +46,12 @@ plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
 
-languages: ['en', 'hu', 'es']
+languages: ['es', 'en', 'hu']
 language_default: 'es'
 languageNames:
+  es: Spanish
   en: English
   hu: Magyar
-  es: Spanish
 
 sass:
   style: compressed
