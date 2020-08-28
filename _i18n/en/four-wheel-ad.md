@@ -1,4 +1,4 @@
-{% include main-image.html src="promobike/four-wheel-ad/gosser.jpg" %}
+{% include main-image.html src="promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" %}
 
 # Négykerekű hirdetés
 
