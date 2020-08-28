@@ -33,7 +33,7 @@ email:
   top-level-domain: hu
 
 facebook:
-  username: johndoe
+  username: https://www.facebook.com/oohweb
 
 twitter:
   username: johndoe
@@ -48,7 +48,7 @@ plugins:
   - jekyll-multiple-languages-plugin
 
 languages: ['en', 'hu', 'es']
-language_default: 'en'
+language_default: 'es'
 languageNames:
   en: English
   hu: Magyar
