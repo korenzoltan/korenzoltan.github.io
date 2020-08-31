@@ -1,5 +1,3 @@
-{% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}
-
 # Moving billboard
 
 Kapcsolódó szolgáltatások
@@ -18,3 +16,5 @@ Kiegészítő lehetőségek
 - hátfal és légterelő branding
 - kihangosítás
 - megvilágítás
+
+{% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}

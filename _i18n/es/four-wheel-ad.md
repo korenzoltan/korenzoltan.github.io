@@ -1,5 +1,3 @@
-{% include main-image.html src="promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" %}
-
 # Négykerekű hirdetés
 
 Kapcsolódó szolgáltatások
@@ -13,3 +11,5 @@ Kapcsolódó szolgáltatások
 - online GPS nyomonkövetés
 - kampány záróriport
 - kampányvideó
+
+{% include main-image.html src="promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" %}

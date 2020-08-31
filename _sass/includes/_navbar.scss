@@ -178,7 +178,7 @@
 @media screen and (max-width: 991px) {
   .navbar {
     .navbar-collapse {
-      position: absolute;
+      position: fixed;
       padding: 12px 0;
       top: 90px;
       left: 0;
