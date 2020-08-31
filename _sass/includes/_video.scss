@@ -8,24 +8,19 @@
     display: inline-block;
     width: 100%;
     background-color: $black;
-  }
 
-  a::after {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100px;
-    height: 100px;
-    background-image: url(./../../assets/icons/play-button.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-  }
-
-  a {
+    &::after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-image: url(./../../assets/icons/play-button.svg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+    }
 
     &:active,
     &:focus,
@@ -46,27 +41,21 @@
   .video {
     margin-left: 50px;
     float: right;
+
+    a::after {
+      width: 100px;
+      height: 100px;
+    }
   }
 }
 
 @media screen and (max-width: 991px) {
   .video {
     margin: 0 auto 30px auto;
-  }
-}
 
-/* @media screen and (min-width: 768px) {
-  .video {
-    a {
-      padding: 100px;
+    a::after {
+      width: 70px;
+      height: 70px;
     }
   }
 }
-
-@media screen and (max-width: 767px) {
-  .video {
-    a {
-      padding: 40px;
-    }
-  }
-} */

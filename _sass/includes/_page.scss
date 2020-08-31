@@ -10,24 +10,19 @@
       background-color: $black;
       border: 4px solid $geyser;
       border-radius: 4px;
-    }
 
-    a::after {
-      content: '';
-      display: block;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      width: 100px;
-      height: 100px;
-      background-image: url(./../../assets/icons/play-button.svg);
-      background-repeat: no-repeat;
-      background-position: center;
-      background-size: cover;
-    }
-
-    a {
+      &::after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-image: url(./../../assets/icons/play-button.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+      }
 
       &:active,
       &:focus,
@@ -51,6 +46,11 @@
       a {
         max-width: 300px;
         height: 200px;
+
+        &::after {
+          width: 100px;
+          height: 100px;
+        }
       }
     }
   }
@@ -62,6 +62,11 @@
       a {
         max-width: 250px;
         height: 125px;
+
+        &::after {
+          width: 70px;
+          height: 70px;
+        }
       }
     }
   }
