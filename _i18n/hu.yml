@@ -5,25 +5,25 @@ global:
 
 titles:
   home: Out of Home
-  four-wheel-ad: Négykerekű hirdetés
   moving-billboard: Mozgó óriásplakát
+  four-wheel-ad: Négykerekű hirdetés
   out-of-home-ad: Out of Home reklám
   references: Referenciák
   legal-notice: Jogi nyilatkozat
   privacy-policy: Adatkezelési tájékoztató
 
 menu:
+  - title: PromoVan reklám teherautó
+    slug: promovan
+    submenu:
+      - title: Mozgó óriásplakát
+        slug: moving-billboard
+
   - title: PromoBike
     slug: promobike
     submenu:
       - title: Négykerekű hirdetések
         slug: four-wheel-ad
-
-  - title: PromoVan-Reklám teherautó
-    slug: promovan
-    submenu:
-      - title: Mozgó óriásplakát
-        slug: moving-billboard
 
   - title: Rólunk
     slug: about

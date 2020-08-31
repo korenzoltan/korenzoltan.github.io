@@ -1,4 +1,4 @@
-{% assign sortedPosts = site.posts | sort: 'title' %}
+{% assign sortedPosts = site.posts %}
 {% for post in sortedPosts %}
 {% assign tools = post.slug %}
 <div id="{{ tools }}">

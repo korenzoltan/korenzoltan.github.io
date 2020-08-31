@@ -4,25 +4,25 @@ global:
 
 titles:
   home: Out of Home
-  four-wheel-ad: Four-wheel ad
   moving-billboard: Moving billboard
+  four-wheel-ad: Four-wheel ad
   out-of-home-ad: Out of Home ad
   references: References
   legal-notice: Legal Notice
   privacy-policy: Privacy Policy
 
 menu:
-  - title: PromoBike
-    slug: promobike
-    submenu:
-      - title: Four-wheel ad
-        slug: four-wheel-ad
-
   - title: PromoVan
     slug: promovan
     submenu:
       - title: Moving billboard
         slug: moving-billboard
+
+  - title: PromoBike
+    slug: promobike
+    submenu:
+      - title: Four-wheel ad
+        slug: four-wheel-ad
 
   - title: About
     slug: about

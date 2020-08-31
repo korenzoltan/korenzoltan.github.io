@@ -4,25 +4,25 @@ global:
 
 titles:
   home: Fuera de casa
-  four-wheel-ad: Anuncio de cuatro ruedas
   moving-billboard: Cartelera móvil
+  four-wheel-ad: Anuncio de cuatro ruedas
   out-of-home-ad: Publicidad fuera de casa
   references: Referencias
   legal-notice: Aviso Legal
   privacy-policy: Política de privacidad
 
 menu:
-  - title: PromoBike
-    slug: promobike
-    submenu:
-      - title: Anuncio de cuatro ruedas
-        slug: four-wheel-ad
-
   - title: PromoVan
     slug: promovan
     submenu:
       - title: Cartelera móvil
         slug: moving-billboard
+
+  - title: PromoBike
+    slug: promobike
+    submenu:
+      - title: Anuncio de cuatro ruedas
+        slug: four-wheel-ad
 
   - title: Sobre nosotros
     slug: about
