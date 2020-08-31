@@ -24,12 +24,15 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 
 company: Promo Solutions Kft.
+company-registration-number: 01-09-305926
+eu-tax-number: HU26174073
 google-url: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
 phone-number: 36207764647
 email:
   recipient-name: zoltankoren
   domain: promogroup
   top-level-domain: hu
+bank-iban: HU49 1620 0223 1007 1775 0000 0000
 
 facebook:
   username: oohweb

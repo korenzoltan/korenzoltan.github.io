@@ -1,7 +1,7 @@
 <div class="contact">
+  <h2>{% t contact.title %}</h2>
   <div class="row">
-    <div class="col-12 col-md-6 order-md-2">
-      <h2>{% t contact.title %}</h2>
+    <div class="col-12 col-md-6">
       <div class="contact-info">
         <p>{% t contact.description %}</p>
         <div class="contact">
@@ -9,6 +9,16 @@
             <img data-src="{{ '/assets/icons/company.svg' | relative_url }}"
               alt="Company" class="lazyload" />
             <b>{{ site.company }}</b>
+          </div>
+          <div class="contact-company-registration-number">
+            <img data-src="{{ '/assets/icons/certificate.svg' | relative_url }}"
+              alt="Company registration number" class="lazyload" />
+            {{ site.company-registration-number }}
+          </div>
+          <div class="contact-eu-tax-number">
+            <img data-src="{{ '/assets/icons/tax.svg' | relative_url }}"
+              alt="EU tax number" class="lazyload" />
+            {{ site.eu-tax-number }}
           </div>
           <div class="contact-address">
             <img data-src="{{ '/assets/icons/map.svg' | relative_url }}"
@@ -28,10 +38,15 @@
             <a href="javascript:"
               data-email="{{ site.email.recipient-name }}[at]{{ site.email.domain }}[dot]{{ site.email.top-level-domain }}"></a>
           </div>
+          <div class="contact-bank-iban">
+            <img data-src="{{ '/assets/icons/bank.svg' | relative_url }}"
+              alt="Bank IBAN" class="lazyload" />
+            {{ site.bank-iban }}
+          </div>
         </div>
       </div>
     </div>
-    <div class="col-12 col-md-6 order-md-1">
+    <div class="col-12 col-md-6">
       <div class="contact-box">
         <form id="contact-form">
           <input type="hidden" id="formspark-contact-form-action-url"
