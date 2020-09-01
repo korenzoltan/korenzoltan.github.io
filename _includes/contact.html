@@ -29,7 +29,9 @@
           <div class="contact-phone">
             <img data-src="{{ '/assets/icons/phone.svg' | relative_url }}"
               alt="Phone" class="lazyload" />
-            <a href="tel:+123456789">{% t contact.phone-text %}</a>
+            <a href="tel:{% t contact.phone-number %}">
+              {% t contact.phone-text %}
+            </a>
           </div>
           <div class="contact-email">
             <img data-src="{{ '/assets/icons/email.svg' | relative_url }}"
