@@ -8,40 +8,39 @@
           <div class="contact-company">
             <img data-src="{{ '/assets/icons/company.svg' | relative_url }}"
               alt="Company" class="lazyload" />
-            <b>{{ site.company }}</b>
+            <b>{% t contact.company %}</b>
           </div>
           <div class="contact-company-registration-number">
             <img data-src="{{ '/assets/icons/certificate.svg' | relative_url }}"
               alt="Company registration number" class="lazyload" />
-            {{ site.company-registration-number }}
+            {% t contact.company-registration-number %}
           </div>
           <div class="contact-eu-tax-number">
             <img data-src="{{ '/assets/icons/tax.svg' | relative_url }}"
               alt="EU tax number" class="lazyload" />
-            {{ site.eu-tax-number }}
+            {% t contact.eu-tax-number %}
           </div>
           <div class="contact-address">
             <img data-src="{{ '/assets/icons/map.svg' | relative_url }}"
               alt="Map" class="lazyload" />
-            <a href="{{ site.google-url }}"
+            <a href="{% t contact.google-map-url %}"
               target="_blank">{% t contact.address %}</a>
           </div>
           <div class="contact-phone">
             <img data-src="{{ '/assets/icons/phone.svg' | relative_url }}"
               alt="Phone" class="lazyload" />
-            <a
-              href="tel:+{{ site.phone-number }}">{% t contact.phone-text %}</a>
+            <a href="tel:+123456789">{% t contact.phone-text %}</a>
           </div>
           <div class="contact-email">
             <img data-src="{{ '/assets/icons/email.svg' | relative_url }}"
               alt="Email" class="lazyload" />
             <a href="javascript:"
-              data-email="{{ site.email.recipient-name }}[at]{{ site.email.domain }}[dot]{{ site.email.top-level-domain }}"></a>
+              data-email="{% t contact.email.recipient-name %}[at]{% t contact.email.domain %}[dot]{% t contact.email.top-level-domain %}"></a>
           </div>
           <div class="contact-bank-iban">
             <img data-src="{{ '/assets/icons/bank.svg' | relative_url }}"
               alt="Bank IBAN" class="lazyload" />
-            {{ site.bank-iban }}
+            {% t contact.bank-iban %}
           </div>
         </div>
       </div>
@@ -57,8 +56,10 @@
             <div class="alert alert-danger">{% t contact.incorrect %}</div>
           </div>
           <div class="form-group">
-            <label for="email">{% t contact.email %} <sup>*</sup></label>
-            <input type="text" id="email" class="form-control" />
+            <label for="email-address">{% t contact.email-address %}
+              <sup>*</sup>
+            </label>
+            <input type="text" id="email-address" class="form-control" />
             <div class="alert alert-danger">
               <div>{% t contact.incorrect-email %}</div>
               <div>{% t contact.incorrect %}</div>
