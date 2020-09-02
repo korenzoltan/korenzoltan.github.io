@@ -44,22 +44,6 @@
         
         <li class="nav-item dropdown">
           <a class="nav-link"
-            href="/#promobike">
-            PromoBike
-          </a>
-          <span class="chevron collapsed"></span>
-          <div class="dropdown-menu dropdown-menu-right">
-            
-            <a class="dropdown-item"
-              href="/four-wheel-ad">
-              Anuncio de cuatro ruedas
-            </a>
-            
-          </div>
-        </li>
-        
-        <li class="nav-item dropdown">
-          <a class="nav-link"
             href="/#promovan">
             PromoVan
           </a>
@@ -69,6 +53,22 @@
             <a class="dropdown-item"
               href="/moving-billboard">
               Cartelera móvil
+            </a>
+            
+          </div>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+            href="/#promobike">
+            PromoBike
+          </a>
+          <span class="chevron collapsed"></span>
+          <div class="dropdown-menu dropdown-menu-right">
+            
+            <a class="dropdown-item"
+              href="/four-wheel-ad">
+              Anuncio de cuatro ruedas
             </a>
             
           </div>
@@ -215,7 +215,8 @@
         (a
           .async = !1, e.body.appendChild(a)) : i[f] ? (d.push(a), a[o] = n) :
         e
-        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.src = s
+        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.defer = 1,
+        a.src = s
     }(document, "script", [
       "/assets/js/vendor.bundle.min.js",
       "/assets/js/main.min.js",

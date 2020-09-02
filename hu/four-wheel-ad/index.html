@@ -44,6 +44,22 @@
         
         <li class="nav-item dropdown">
           <a class="nav-link"
+            href="/hu/#promovan">
+            PromoVan reklám teherautó
+          </a>
+          <span class="chevron collapsed"></span>
+          <div class="dropdown-menu dropdown-menu-right">
+            
+            <a class="dropdown-item"
+              href="/hu/moving-billboard">
+              Mozgó óriásplakát
+            </a>
+            
+          </div>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link"
             href="/hu/#promobike">
             PromoBike
           </a>
@@ -53,22 +69,6 @@
             <a class="dropdown-item"
               href="/hu/four-wheel-ad">
               Négykerekű hirdetések
-            </a>
-            
-          </div>
-        </li>
-        
-        <li class="nav-item dropdown">
-          <a class="nav-link"
-            href="/hu/#promovan">
-            PromoVan-Reklám teherautó
-          </a>
-          <span class="chevron collapsed"></span>
-          <div class="dropdown-menu dropdown-menu-right">
-            
-            <a class="dropdown-item"
-              href="/hu/moving-billboard">
-              Mozgó óriásplakát
             </a>
             
           </div>
@@ -155,11 +155,7 @@
   <div id="four-wheel-ad">
     <section>
       <div class="container">
-        <div class="main-image">
-  <img data-src="/hu/assets/images/thumbnail/promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" alt="" class="lazyload" />
-</div>
-
-<h1 id="négykerekű-hirdetés">Négykerekű hirdetés</h1>
+        <h1 id="négykerekű-hirdetés">Négykerekű hirdetés</h1>
 
 <p>Kapcsolódó szolgáltatások</p>
 
@@ -175,6 +171,10 @@
   <li>kampányvideó</li>
 </ul>
 
+<div class="main-image">
+  <img data-src="/hu/assets/images/thumbnail/promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" alt="" class="lazyload" />
+</div>
+
 
       </div>
     </section>
@@ -184,24 +184,30 @@
         <div id="carousel-0" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             
+            
             <div class="carousel-item col-12 col-md-4">
-              <a href="https://www.youtube.com/watch?v=VSp-SlVSgto&t=12s" data-fancybox="four-wheel-ad-gallery">
-                <img data-src="/hu/assets/icons/play-button.svg"
-                  alt="Play" class="d-block lazyload" />
+              <a href="https://www.youtube.com/watch?v=VSp-SlVSgto&t=12s"
+                data-fancybox="four-wheel-ad-gallery">
+                <img data-src="/hu/assets/images/home/tools/promobike/creaticapublicidad_promobike_american.jpg" alt=""
+                  class="d-block lazyload" />
               </a>
             </div>
             
+            
             <div class="carousel-item col-12 col-md-4">
-              <a href="https://www.youtube.com/watch?v=VSp-SlVSgto&t=12s" data-fancybox="four-wheel-ad-gallery">
-                <img data-src="/hu/assets/icons/play-button.svg"
-                  alt="Play" class="d-block lazyload" />
+              <a href="https://www.youtube.com/watch?v=VSp-SlVSgto&t=12s"
+                data-fancybox="four-wheel-ad-gallery">
+                <img data-src="/hu/assets/images/home/tools/promobike/creaticapublicidad_promobike_gosser.JPG" alt=""
+                  class="d-block lazyload" />
               </a>
             </div>
             
+            
             <div class="carousel-item col-12 col-md-4">
-              <a href="https://www.youtube.com/watch?v=VSp-SlVSgto&t=12s" data-fancybox="four-wheel-ad-gallery">
-                <img data-src="/hu/assets/icons/play-button.svg"
-                  alt="Play" class="d-block lazyload" />
+              <a href="https://www.youtube.com/watch?v=VSp-SlVSgto&t=12s"
+                data-fancybox="four-wheel-ad-gallery">
+                <img data-src="/hu/assets/images/home/tools/promobike/creaticapublicidad_promobike_magnet.JPG" alt=""
+                  class="d-block lazyload" />
               </a>
             </div>
             
@@ -269,7 +275,8 @@
         (a
           .async = !1, e.body.appendChild(a)) : i[f] ? (d.push(a), a[o] = n) :
         e
-        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.src = s
+        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.defer = 1,
+        a.src = s
     }(document, "script", [
       "/hu/assets/js/vendor.bundle.min.js",
       "/hu/assets/js/main.min.js",

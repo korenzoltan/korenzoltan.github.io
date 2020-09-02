@@ -44,22 +44,6 @@
         
         <li class="nav-item dropdown">
           <a class="nav-link"
-            href="/en/#promobike">
-            PromoBike
-          </a>
-          <span class="chevron collapsed"></span>
-          <div class="dropdown-menu dropdown-menu-right">
-            
-            <a class="dropdown-item"
-              href="/en/four-wheel-ad">
-              Four-wheel ad
-            </a>
-            
-          </div>
-        </li>
-        
-        <li class="nav-item dropdown">
-          <a class="nav-link"
             href="/en/#promovan">
             PromoVan
           </a>
@@ -69,6 +53,22 @@
             <a class="dropdown-item"
               href="/en/moving-billboard">
               Moving billboard
+            </a>
+            
+          </div>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+            href="/en/#promobike">
+            PromoBike
+          </a>
+          <span class="chevron collapsed"></span>
+          <div class="dropdown-menu dropdown-menu-right">
+            
+            <a class="dropdown-item"
+              href="/en/four-wheel-ad">
+              Four-wheel ad
             </a>
             
           </div>
@@ -215,7 +215,8 @@
         (a
           .async = !1, e.body.appendChild(a)) : i[f] ? (d.push(a), a[o] = n) :
         e
-        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.src = s
+        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.defer = 1,
+        a.src = s
     }(document, "script", [
       "/en/assets/js/vendor.bundle.min.js",
       "/en/assets/js/main.min.js",
