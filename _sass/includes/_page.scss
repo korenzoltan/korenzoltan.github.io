@@ -1,23 +1,53 @@
 .page {
+  .container {
+    position: relative;
+  }
+
   .carousel-bar {
     margin-top: 70px;
   }
 
   .carousel-item {
     a {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: center;
-      padding: 4px;
+      display: inline-block;
       width: 100%;
       background-color: $black;
       border: 4px solid $geyser;
       border-radius: 4px;
+
+      &::after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-image: url(./../../assets/icons/play-button.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+      }
+
+      &:active,
+      &:focus,
+      &:hover {
+        &::after {
+          background-image: url(./../../assets/icons/play-button-hover.svg);
+        }
+      }
     }
 
     img {
-      width: 70px;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .page {
+    main .container ul {
+      max-width: 450px;
     }
   }
 }
@@ -28,6 +58,11 @@
       a {
         max-width: 300px;
         height: 200px;
+
+        &::after {
+          width: 100px;
+          height: 100px;
+        }
       }
     }
   }
@@ -39,6 +74,11 @@
       a {
         max-width: 250px;
         height: 125px;
+
+        &::after {
+          width: 70px;
+          height: 70px;
+        }
       }
     }
   }

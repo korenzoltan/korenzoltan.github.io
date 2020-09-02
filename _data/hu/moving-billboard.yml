@@ -1,3 +1,8 @@
-- https://www.youtube.com/watch?v=nqFc16U4CcA
-- https://www.youtube.com/watch?v=cjUA3HuMaHI
-- https://www.youtube.com/watch?v=Ohxpgu850Dw&t=12s
+- video-src: https://www.youtube.com/watch?v=nqFc16U4CcA
+  video-thumb: home/tools/promovan/creaticapublicidad_promovan_asia_2.jpg
+
+- video-src: https://www.youtube.com/watch?v=cjUA3HuMaHI
+  video-thumb: home/tools/promovan/creaticapublicidad_promovan_fidesz.JPG
+
+- video-src: https://www.youtube.com/watch?v=Ohxpgu850Dw&t=12s
+  video-thumb: home/tools/promovan/creaticapublicidad_promovan_slovakia.jpg

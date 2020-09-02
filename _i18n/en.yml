@@ -4,25 +4,25 @@ global:
 
 titles:
   home: Out of Home
-  four-wheel-ad: Four-wheel ad
   moving-billboard: Moving billboard
+  four-wheel-ad: Four-wheel ad
   out-of-home-ad: Out of Home ad
   references: References
   legal-notice: Legal Notice
   privacy-policy: Privacy Policy
 
 menu:
-  - title: PromoBike
-    slug: promobike
-    submenu:
-      - title: Four-wheel ad
-        slug: four-wheel-ad
-
   - title: PromoVan
     slug: promovan
     submenu:
       - title: Moving billboard
         slug: moving-billboard
+
+  - title: PromoBike
+    slug: promobike
+    submenu:
+      - title: Four-wheel ad
+        slug: four-wheel-ad
 
   - title: About
     slug: about
@@ -40,15 +40,25 @@ contact:
   title: Contact
   description: Got a question? Please contact our Hungarian center, who will answer all your questions within 1 day.
   name: Name
-  email: Email address
+  email-address: Email address
   message: Message
   submit: Send
   incorrect: Please fill out this field
   incorrect-email: Please enter a valid email address
   success: Message sent successfully! We will contact you soon!
   error: Message not sent. There was a problem with the server. We apologize and please be patient!
+  company: Promo Solutions Kft.
+  company-registration-number: 01-09-305926
+  eu-tax-number: HU26174073
+  google-map-url: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
   address: Üllői út 169., 1091 Budapest, Hungary
-  phone-text: +36 20 776 4647
+  phone-number: '+36207764647'
+  phone-text: +36-20/776-4647
+  email:
+    recipient-name: zoltankoren
+    domain: promogroup
+    top-level-domain: hu
+  bank-iban: HU49 1620 0223 1007 1775 0000 0000
 
 footer:
   description: Out of Home media.

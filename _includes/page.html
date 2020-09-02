@@ -10,11 +10,13 @@
       <div class="container">
         <div id="carousel-0" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
-            {% for url in site.data[site.lang][page.filename] %}
+            {% for data in site.data[site.lang][page.filename] %}
+            {% assign videoThumb = 'assets/images/' | append: data.video-thumb %}
             <div class="carousel-item col-12 col-md-4">
-              <a href="{{ url }}" data-fancybox="{{ page.filename }}-gallery">
-                <img data-src="{{ site.baseurl }}/assets/icons/play-button.svg"
-                  alt="Play" class="d-block lazyload" />
+              <a href="{{ data.video-src }}"
+                data-fancybox="{{ page.filename }}-gallery">
+                <img data-src="{{ videoThumb | relative_url }}" alt=""
+                  class="d-block lazyload" />
               </a>
             </div>
             {% endfor %}

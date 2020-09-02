@@ -1,5 +1,3 @@
-{% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}
-
 # Cartelera móvil
 
 Servicios relacionados
@@ -18,3 +16,5 @@ Opciones adicionales
 - pared trasera y marca de spoiler
 - altavoz
 - Encendiendo
+
+{% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}

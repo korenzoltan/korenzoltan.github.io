@@ -5,25 +5,25 @@ global:
 
 titles:
   home: Out of Home
-  four-wheel-ad: Négykerekű hirdetés
   moving-billboard: Mozgó óriásplakát
+  four-wheel-ad: Négykerekű hirdetés
   out-of-home-ad: Out of Home reklám
   references: Referenciák
   legal-notice: Jogi nyilatkozat
   privacy-policy: Adatkezelési tájékoztató
 
 menu:
+  - title: PromoVan reklám teherautó
+    slug: promovan
+    submenu:
+      - title: Mozgó óriásplakát
+        slug: moving-billboard
+
   - title: PromoBike
     slug: promobike
     submenu:
       - title: Négykerekű hirdetések
         slug: four-wheel-ad
-
-  - title: PromoVan-Reklám teherautó
-    slug: promovan
-    submenu:
-      - title: Mozgó óriásplakát
-        slug: moving-billboard
 
   - title: Rólunk
     slug: about
@@ -41,15 +41,25 @@ contact:
   title: Kapcsolat
   description: Kérdésed van? Kérlek, vedd fel a kapcsolatot a Magyarországi központunkkal, akik 1 napon belül válaszolnak minden kérdésedre.
   name: Név
-  email: E-mail cím
+  email-address: E-mail cím
   message: Üzenet
   submit: Küldés
   incorrect: Kérlek, töltsd ki a mezőt
   incorrect-email: Érvénytelen e-mail cím formátum
   success: Üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot!
   error: Üzenet nem lett elküldve. Valami hiba folytán probléma adódott a szerverrel. Elnézést és szíves türelmét kérjük!
+  company: Promo Solutions Kft.
+  company-registration-number: 01-09-305926
+  eu-tax-number: HU26174073
+  google-map-url: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
   address: 1091 Budapest, Üllői út 169., Magyarország
+  phone-number: '+36207764647'
   phone-text: +36-20/776-4647
+  email:
+    recipient-name: zoltankoren
+    domain: promogroup
+    top-level-domain: hu
+  bank-iban: HU49 1620 0223 1007 1775 0000 0000
 
 footer:
   description: Out of Home média. Végtelen sokszínűség.

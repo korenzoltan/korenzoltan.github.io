@@ -1,9 +1,9 @@
-{% assign sortedPosts = site.posts | sort: 'title' %}
+{% assign sortedPosts = site.posts %}
 {% for post in sortedPosts %}
 {% assign tools = post.slug %}
 <div id="{{ tools }}">
   <div class="container">
-    {% include video.html src=post.video-src %}
+    {% include video.html src=post.video-src thumbnail=post.video-thumb %}
     <h2><a href="{{ post.page-url | relative_url }}">{{ post.title }}</a></h2>
     {{ post }}
   </div>

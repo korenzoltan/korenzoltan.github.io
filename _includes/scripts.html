@@ -12,7 +12,8 @@
         (a
           .async = !1, e.body.appendChild(a)) : i[f] ? (d.push(a), a[o] = n) :
         e
-        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.src = s
+        .write("<" + t + ' src="' + s + '" defer></' + t + ">"), a.defer = 1,
+        a.src = s
     }(document, "script", [
       "{{ '/assets/js/vendor.bundle.min.js' | relative_url }}",
       "{{ '/assets/js/main.min.js' | relative_url }}",
