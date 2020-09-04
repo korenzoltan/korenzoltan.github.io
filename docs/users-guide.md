@@ -1,8 +1,4 @@
 # Használati útmutató
-https://github.com
-korenzoltan
-Viadelaplata2020
-
 
 ## Mappa struktúra
 
