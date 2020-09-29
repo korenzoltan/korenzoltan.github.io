@@ -2,22 +2,15 @@
 
 Kapcsolódó szolgáltatások
 
-- kampánytervezés célcsoportra optimalizálva
-- útvonaltervezés
+- kampánytervezés és útvonaltervezés célcsoportra optimalizálva
 - promóterek szakmai felkészítése az ügyfél által adott információk alapján
 - kihangosítás
 - megvilágítás
 - napi fotós riport
 - online GPS nyomonkövetés
-- kampány záróriport
-- kampányvideó
+- kampány záróriport,videó
 
-A Londoni székhelyű Promogroup LTD Magyarországi partnere 2004 óta\
-szervez reklám kampányokat Európában.\
-Reklámkerékpárunk műfajában elsőként debütált az Angol piacon,\
-népszerűsége azóta is töretlen!\
-Környezetbarát médiaeszköz, citylight méretű (120x180 cm) felépítménnyel.\
-Kisebb területi lefedettségű lokális kampányokhoz javasoljuk,\
-pl. üzlet nyitás, lokális promóciók.
+A Londoni székhelyű Promogroup LTD Magyarországi partnere A Promo Solutions Kft\
+2004 ótaszervez reklám kampányokat Európában.
 
 {% include main-image.html src="promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" %}
