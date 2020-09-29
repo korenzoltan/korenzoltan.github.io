@@ -12,5 +12,5 @@ Kampány kezdés 3 munkanapon belül!
 
 Plakát mérete: 120x180 cm ( CLP) 
 
-A Londoni székhelyű Promogroup LTD Magyarországi partnere a Promo Solutions Kft\
+A Londoni székhelyű Promogroup LTD Magyarországi partnere a Promo Solutions Kft
 2004 óta szervez reklám kampányokat Európában.
