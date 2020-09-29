@@ -19,6 +19,7 @@ Reklámkerékpárunk műfajában elsőként debütált az Angol piacon,
 <br />
 népszerűsége azóta is töretlen!
 Környezetbarát médiaeszköz, citylight méretű (120x180 cm) felépítménnyel.
+<br />
 Kisebb területi lefedettségű lokális kampányokhoz javasoljuk,
 <br />
 pl. üzlet nyitás, lokális promóciók.
