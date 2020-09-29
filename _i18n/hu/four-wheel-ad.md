@@ -15,9 +15,11 @@ Kapcsolódó szolgáltatások
 A Londoni székhelyű Promogroup LTD Magyarországi partnere 2004 óta
 <br />
 szervez reklám kampányokat Európában.
+<br />
 Reklámkerékpárunk műfajában elsőként debütált az Angol piacon,
 <br />
 népszerűsége azóta is töretlen!
+<br />
 Környezetbarát médiaeszköz, citylight méretű (120x180 cm) felépítménnyel.
 <br />
 Kisebb területi lefedettségű lokális kampányokhoz javasoljuk,
