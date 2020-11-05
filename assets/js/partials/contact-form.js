@@ -5,7 +5,7 @@ $(document).ready(function () {
     ).val();
 
     const name = $('#name');
-    const email = $('#email');
+    const email = $('#email-address');
     const message = $('#message');
 
     const isValidName = validate('name', name);
