@@ -6,4 +6,4 @@ Cégünk, a Magyar PromoGroup 16 éve, az **angliai** anyavállalat franchise pa
   
 2019 től már **Ausztriában** is elérhető a PromoVann reklám teherautó szolgáltatásunk.   
 
-2020 tól már **Spanyolország** területén is elérhetőek lesznek a szolgáltatásaink.
+2021 tól már **Spanyolország** területén is elérhetőek lesznek a szolgáltatásaink.
