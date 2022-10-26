@@ -208,7 +208,7 @@ gulp.task('jekyll-serve', function (done) {
 });
 
 gulp.task('jekyll-build', function (done) {
-  doSpawn('build', done);
+  doSpawn('build --trace', done);
 });
 
 gulp.task('jekyll-clean', function (done) {
