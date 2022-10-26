@@ -17,7 +17,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-multiple-languages-plugin"
+  gem "jekyll-multiple-languages-plugin", "~> 1.7"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
