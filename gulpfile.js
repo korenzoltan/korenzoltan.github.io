@@ -1,6 +1,6 @@
 const gulp = require('gulp');
 const spawn = require('child_process').spawn;
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const sourcemaps = require('gulp-sourcemaps');
 const postcss = require('gulp-postcss');
 const autoprefixer = require('autoprefixer');
@@ -125,7 +125,7 @@ gulp.task('imagegm-home-tools', function () {
     .pipe(
       gm(function (gmfile) {
         return gmfile.resize(1366, 768);
-      }),
+      })
     )
     .pipe(gulp.dest('assets/images/home/tools'));
 });
@@ -136,7 +136,7 @@ gulp.task('imagegm-home-tools-thumbnail', function () {
     .pipe(
       gm(function (gmfile) {
         return gmfile.resize(290, 190);
-      }),
+      })
     )
     .pipe(gulp.dest('assets/images/thumbnail/home/tools'));
 });
@@ -147,7 +147,7 @@ gulp.task('imagegm-promobike-pages-thumbnail', function () {
     .pipe(
       gm(function (gmfile) {
         return gmfile.resize(450);
-      }),
+      })
     )
     .pipe(gulp.dest('assets/images/thumbnail/promobike'));
 });
@@ -158,7 +158,7 @@ gulp.task('imagegm-promovan-pages-thumbnail', function () {
     .pipe(
       gm(function (gmfile) {
         return gmfile.resize(450);
-      }),
+      })
     )
     .pipe(gulp.dest('assets/images/thumbnail/promovan'));
 });
@@ -181,8 +181,8 @@ gulp.task('imagemin', function () {
         ],
         {
           verbose: true,
-        },
-      ),
+        }
+      )
     )
     .pipe(gulp.dest('assets/images'));
 });
@@ -194,8 +194,8 @@ gulp.task(
     'imagegm-home-tools-thumbnail',
     'imagegm-promobike-pages-thumbnail',
     'imagegm-promovan-pages-thumbnail',
-    'imagemin',
-  ),
+    'imagemin'
+  )
 );
 
 gulp.task('thumbnail-clean', function (done) {
@@ -237,7 +237,7 @@ gulp.task('watch', function (done) {
       '_layouts/**/*.*',
       'pages/**/*.*',
     ],
-    gulp.series('jekyll-build'),
+    gulp.series('jekyll-build')
   );
   gulp.watch(['_sass/**/*.scss'], gulp.series('css', 'jekyll-build'));
   gulp.watch(['assets/js/partials/**/*.js'], gulp.series('js', 'jekyll-build'));
