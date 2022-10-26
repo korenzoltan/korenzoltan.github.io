@@ -1,6 +1,6 @@
 global:
   title: Out of Home média.
-  subtitle: Végtelen sokszínűség-Már Spanyolországban is!
+  subtitle: Végtelen sokszínűség - Már Spanyolországban is!
   copyright: Minden jog fenntartva.
 
 titles:
@@ -13,7 +13,7 @@ titles:
   privacy-policy: Adatkezelési tájékoztató
 
 menu:
-  - title: PromoVan reklám teherautó
+  - title: PromoVan
     slug: promovan
     submenu:
       - title: Mozgó óriásplakát

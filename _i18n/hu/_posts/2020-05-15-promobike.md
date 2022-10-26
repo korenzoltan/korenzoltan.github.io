@@ -8,9 +8,8 @@ video-thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.JPG
 
 Kampány kezdés 3 munkanapon belül!
 
-100 EUR-tól / eszköz / nap
+100 EUR-tól / eszköz / nap.
 
-Plakát mérete: 120x180 cm ( CLP) 
+Plakát mérete: 120x180 cm (CLP).
 
-A Londoni székhelyű Promogroup LTD Magyarországi partnere a Promo Solutions Kft
-2004 óta szervez reklám kampányokat Európában.
+A Londoni székhelyű Promogroup LTD Magyarországi partnere a Promo Solutions Kft. 2004 óta szervez reklám kampányokat Európában.

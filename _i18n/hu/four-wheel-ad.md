@@ -8,9 +8,9 @@ Kapcsolódó szolgáltatások
 - megvilágítás
 - napi fotós riport
 - online GPS nyomonkövetés
-- kampány záróriport,videó
+- kampány záróriport, videó
 
-A Londoni székhelyű Promogroup LTD Magyarországi partnere A Promo Solutions Kft\
+A Londoni székhelyű Promogroup LTD Magyarországi partnere A Promo Solutions Kft.\
 2004 ótaszervez reklám kampányokat Európában.
 
 {% include main-image.html src="promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" %}

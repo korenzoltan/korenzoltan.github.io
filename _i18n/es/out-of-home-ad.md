@@ -1,40 +1,39 @@
-# Publicidad fuera de casa
+# Publicidad OOH
 
-Los medios fuera de casa (OOH para abreviar) incluyen todas las herramientas de publicidad y apariciones promocionales que encontramos desde las paredes de nuestra casa. Son inevitables en nuestra rutina diaria.
+La publicidad Out Of Home (OOH) incluye todo tipo de publicidad y de plataforma publicitaria con que encontramos diariamente al salir de casa. Imposibles de no percibir en nuestra rutina diaria.
 
-Están allí:
+Imputs diarios como:
 
-- mientras maneja
-- Esperando el bus
-- en tiendas
-- en la oficina del doctor
-- o incluso en una peluquería.
+- Al conducir
+- Esperando al autobús
+- Haciendo las compras
+- En la sala de espera de tu centro médico
+- En la peluquería
 
-La columna vertebral de las campañas de OOH es la publicidad clásica en el espacio público (como vallas publicitarias y publicidad urbana o de vehículos, que ya se considera tradicional). Diseño preciso y eficiencia numéricamente medible.
+El epicentro de las campañas OOH está compuesto desde las plataformas públicas más clásicas como las carteleras y vallas publicitarias hasta los muy conocidos vehículos para publicidad. Como se encuentran en gran cantidad por todas partes del país, garantizan el acceso pleno al mercado objetivo. Sus beneficios incluyen el tamaño considerable de la superficie publicitaria, la planificación a medida y la disponibilidad de la información estadística.
 
-Creemos que las herramientas clásicas son la base de la publicidad OOH, por eso las hemos agregado a nuestra cartera.
+Según nuestra opinión las plataformas clásicas constituyen parte de la publicidad OOH, por eso las incluimos en nuestra gama de servicios.
 
-¡Pero siempre hay alguien que quiere pasar el rato! Afortunadamente, en los últimos 10 años, los anunciantes en España también han visto un aumento en la necesidad de soluciones inusuales y personalizadas. Aparecieron carteles móviles, bicicletas de marca y segways en las calles, resumiendo los medios ambientales.
+¡Pero siempre habrá gente que quiere ser diferente! Afortunadamente en España también hay más y más empresas que desean usar soluciones publicitarias individuales y menos clásicas. Poco a poco han aparecido en las calles las carteleras en movimiento, las bicicletas y segways con publicidad adaptada, en otras palabras, el marketing ambiental.
 
-Debido a su variedad y singularidad, cada vez más empresas están incorporando su uso en sus comunicaciones.
-Su característica principal y, al mismo tiempo, su objetivo, es el asombro: llegan a los consumidores en un lugar, posición y, sobre todo, sorprendente, con un espacio publicitario sorprendente. Nuestra experiencia muestra que el grupo objetivo es abierto e inclusivo para este tipo de publicidad.
+Cada vez más empresas lo usan en su comunicación comercial gracias a su diversidad y aspecto especial. Su característica y objetivo principal se basa en sorprender: tener acceso a los consumidores en lugares y situaciones inesperados con publicidad en plataformas sorprendentes. Según nuestras experiencias el público objetivo suele estar muy receptivo para este tipo de publicidades.
 
 ## Sobre nosotros
 
-Nuestra empresa, Hungría PromoGroup, comenzó su carrera en Hungría hace diez años como socio franquicia de la empresa matriz en Inglaterra mediante la introducción de una bicicleta publicitaria especial.
+Nuestra compañía húngara, Promo Group empezó su carrera hace diez años como franquicia de la empresa inglesa con la introducción de una bicicleta especial para publicidad.
 
-El éxito de las bicicletas PromoBike nos ha animado a ampliar nuestra gama y desarrollar herramientas promocionales únicas adicionales. Nuestro entusiasmo es ininterrumpido, de vez en cuando aparecemos en la calle con un nuevo dispositivo de medios que siempre despierta un gran interés por parte de las personas. De las PERSONAS que son el grupo objetivo de nuestros clientes.
+El éxito de las bicicletas PromoBike nos motivo para ampliar la gama de servicios y así desarrollar otras plataformas publicitarias. Nuestro entusiasmo sigue y salimos a menudo a la calle con nuevas ideas que siempre crean gran curiosidad entre la gente. Entre la GENTE que es la base de nuestro público objetivo.
 
-Podríamos escribir extensamente sobre las posibilidades de los medios fuera de casa, pero el corazón es 2 palabras de todos modos:
+Podríamos seguir hablando de las muchas posibilidades que ofrece el marketing OOH pero su esencia se describe en dos palabras:
 
-**Diversidad infinita.**
+**Variedad multicolor**
 
-> Desde Marshall McLuhan hemos sabido que
+> El gran Marshall McLuhan dijo una vez
 >
-> „los medios son el mensaje mismo”.
+> „El medio es el mensaje”.
 
-Este pensamiento se vuelve muy tangible o visible cuando salimos a la calle y nos enfrentamos al primer anuncio. ¿Qué sientes? ¿Exigente, bien ubicado, especial? Tal vez es descuidado o casi imperceptible? Esperamos lo primero. Principalmente porque estos tokens están relacionados con la marca en el anuncio...
+Nos encontramos con esa cita nada más poner un pie en la calle y ver el primer mensaje publicitario. ¿Que sensaciones nos transmite? ¿Es de buen gusto, está en buen sitio, es especial? ¿O nos transmite todo lo contrario, está descuidado y casi no se ve? Esperamos que sea la primera. Sobre todo, porque todos estos atributos representan la marca que se muestra en la publicidad….
 
-Nuestro trabajo no es solo esperar, sino también asegurarnos de que las apariciones fuera de casa de nuestros clientes evoquen los sentimientos más positivos en el grupo objetivo y, por supuesto, proporcionen un incentivo para probar el producto / servicio.
+Nuestro objetivo es no solo tener esa esperanza, pero también hacer posible que la publicidad OOH de nuestros clientes despierte sentimientos positivos en su público objetivo y que los animen a consumir el mensaje publicado.
 
-A partir del verano de 2020, realizaremos campañas publicitarias no solo en la zona de captación de Hungría, sino también en España.
+A partir del verano del 2021 montamos campañas comerciales no sólo en Hungría y sus alrededores, ahora también en España.

@@ -1,20 +1,19 @@
-# Cartelera móvil
+# Carteleras en movimiento
 
-Servicios relacionados
+Servicios incluidos
 
-- planificación de campañas optimizada para el grupo objetivo
-- planificación de ruta basada en datos de tráfico de Probe Ipsos
-- proporcionar espacio publicitario (cartelera)
-- imprimir y colocar gráficos
-- informe diario del fotógrafo
-- Rastreo GPS en línea
-- informe de cierre de campaña
-- Video de la campaña
+- Campañas optimalizadas para tu público objetivo
+- Planificación de las rutas de los vehículos
+- Plataformas de publicidad (carteleras)
+- Impresión y instalación de la publicidad
+- Información diaria con fotos y seguimiento GPS online
+- Seguimiento GPS online
 
-Opciones adicionales
+Otros servicios opcionales
 
-- pared trasera y marca de spoiler
-- altavoz
-- Encendiendo
+- Decoración del panel trasero y del alerón
+- Marketing sensorial (iluminación y altavoces)
+
+El tamaño de superficie publicitaria es de una cartelera estándar (5,04 x 2,38 m).
 
 {% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}

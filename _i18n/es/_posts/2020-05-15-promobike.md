@@ -1,14 +1,15 @@
 ---
-title: PromoBike
+title: PromoBike bicicletas para publicidad
 slug: promobike
 page-url: four-wheel-ad
 video-src: https://www.youtube.com/watch?v=Bn-CR8sgNRg
 video-thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.JPG
 ---
 
-Kampány kezdés Spanyolországban 10 munkanapon belül!
+Comienzo de tu campaña en 3 días hábiles.
 
-100 EUR-tól / eszköz / nap
+A partir de 100 EUR / vehículo / día.
 
-A Londoni székhelyű Promogroup LTD Magyarországi partnere 2004 óta szervez reklám kampányokat Európában.
-Reklámkerékpárunk műfajában elsőként debütált az Angol piacon, népszerűsége azóta is töretlen! Környezetbarát médiaeszköz, citylight méretű (120x180 cm) felépítménnyel. Kisebb területi lefedettségű lokális kampányokhoz javasoljuk, pl. üzlet nyitás, lokális promóciók.
+Tamaño del cartel: 120 x 180 cm (CLP).
+
+Promo Solutions Kft, la franquicia húngara de la empresa Promogroup LTD ubicada en Londres organiza campañas publicitarias en Europa desde 2004.

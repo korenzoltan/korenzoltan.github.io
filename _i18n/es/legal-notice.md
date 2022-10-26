@@ -1,4 +1,4 @@
-# Aviso Legal
+# Aviso legal
 
 A [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} weboldalon található tartalom a PromoGroup Kft. szellemi tulajdona.
 

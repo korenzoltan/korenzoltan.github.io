@@ -1,9 +1,9 @@
-## Rólunk-Magyarországi központ
+## Sobre nosotros – Centro en Hungría
 
-Cégünk, a Magyar PromoGroup 16 éve, az **angliai** anyavállalat franchise partnereként kezdte hazai pályafutását egy speciális reklámkerékpár bevezetésével.
+Nuestra compañía húngara, Promo Group empezó su carrera como franquicia de la empresa inglesa con la introducción de una bicicleta especial para publicidad.
 
-2018 tól már nem csak Magyarországon bonyolítunk reklám kampányokat hanem **Szlovákiában** is
-  
-2019 től már **Ausztriában** is elérhető a PromoVann reklám teherautó szolgáltatásunk.   
+Desde 2018 montamos campañas publicitarias no solo en Hungría, también en **Eslovaquia**.
 
-2020 tól már **Spanyolország** területén is elérhetőek lesznek a szolgáltatásaink.
+Desde 2019 nuestro servicio de PromoVan, la furgoneta para publicidad está disponible también en **Austria**.
+
+Desde este 2021 también estaremos presentes en **España**.

@@ -1,4 +1,4 @@
-# Política de privacidad
+# Información sobre el tratamiento de datos
 
 ## Tartalomjegyzék
 

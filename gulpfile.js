@@ -1,6 +1,6 @@
 const gulp = require('gulp');
 const spawn = require('child_process').spawn;
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const sourcemaps = require('gulp-sourcemaps');
 const postcss = require('gulp-postcss');
 const autoprefixer = require('autoprefixer');

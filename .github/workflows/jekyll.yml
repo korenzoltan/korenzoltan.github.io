@@ -19,10 +19,10 @@ jobs:
           sudo apt-get install imagemagick
           sudo apt-get install graphicsmagick
 
-      - name: Set up Ruby 2.6
+      - name: Set up Ruby 2.7
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: 2.6
+          ruby-version: 2.7
 
       - name: Cache bundle dependencies
         uses: actions/cache@v1
@@ -41,10 +41,10 @@ jobs:
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
 
-      - name: Use Node.js 12.x
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 16
 
       - name: Cache npm dependencies
         uses: actions/cache@v1

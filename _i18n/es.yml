@@ -4,24 +4,24 @@ global:
 
 titles:
   home: Fuera de casa
-  moving-billboard: Cartelera móvil
-  four-wheel-ad: Anuncio de cuatro ruedas
-  out-of-home-ad: Publicidad fuera de casa
+  moving-billboard: Carteleras en movimiento
+  four-wheel-ad: Publicidad con cuatro ruedas
+  out-of-home-ad: Publicidad OOH
   references: Referencias
-  legal-notice: Aviso Legal
-  privacy-policy: Política de privacidad
+  legal-notice: Aviso legal
+  privacy-policy: Información sobre el tratamiento de datos
 
 menu:
   - title: PromoVan
     slug: promovan
     submenu:
-      - title: Cartelera móvil
+      - title: Carteleras en movimiento
         slug: moving-billboard
 
   - title: PromoBike
     slug: promobike
     submenu:
-      - title: Anuncio de cuatro ruedas
+      - title: Publicidad con cuatro ruedas
         slug: four-wheel-ad
 
   - title: Sobre nosotros
@@ -30,15 +30,15 @@ menu:
       - title: Publicidad fuera de casa
         slug: out-of-home-ad
 
-  - title: Contactos
+  - title: Contacto
     slug: contact
     submenu:
       - title: Referencias
         slug: references
 
 contact:
-  title: Contactos
-  description: Póngase en contacto con nuestro centro húngaro, que responderá todas sus preguntas en 1 día.
+  title: Contacto
+  description: ¿Tienes preguntas? Contacta nuestro centro en Hungría y en un sólo día tendrás tu respuesta.
   name: Nombre
   email-address: Correo electrónico
   message: Mensaje
@@ -61,4 +61,4 @@ contact:
   bank-iban: HU49 1620 0223 1007 1775 0000 0000
 
 footer:
-  description: Fuera de casa.
+  description: OOH media 2021. Variedad multicolor.
