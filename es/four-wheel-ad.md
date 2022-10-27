@@ -19,7 +19,7 @@ Servicios incluidos
 - Seguimiento GPS online
 - Reporte final y video de toda la campaña
 
-Promo Solutions Kft, la franquicia húngara de la empresa Promogroup LTD ubicada
-en Londres organiza campañas publicitarias en Europa desde 2004.
+Promo Solutions Kft, la franquicia húngara de la empresa Promogroup LTD\
+ubicada en Londres organiza campañas publicitarias en Europa desde 2004.
 
 {% include main-image.html src="promobike/four-wheel-ad/promobikes_heineken_nap103.JPG" %}
