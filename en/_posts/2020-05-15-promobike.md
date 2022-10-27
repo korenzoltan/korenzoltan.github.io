@@ -3,7 +3,7 @@ title: PromoBike
 slug: promobike
 page-url: four-wheel-ad
 video_src: https://www.youtube.com/watch?v=Bn-CR8sgNRg
-video_thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.jpg
+video_thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.JPG
 language: en
 language_reference: promobike
 ---
