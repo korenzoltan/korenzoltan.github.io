@@ -1,16 +1,15 @@
-{% assign sortedPosts = site.posts %}
+{% assign sortedPosts = site.posts | where: 'language', page.language %}
 {% for post in sortedPosts %}
 {% assign tools = post.slug %}
 <div id="{{ tools }}">
   <div class="container">
-    {% include video.html src=post.video-src thumbnail=post.video-thumb %}
-    <h2><a href="{{ post.page-url | relative_url }}">{{ post.title }}</a></h2>
+    {% include video.html src=post.video_src thumbnail=post.video_thumb %}
+    <h2><a href="{{ site.baseurl }}/{{ page.language }}/{{ post.page-url }}">{{ post.title }}</a></h2>
     {{ post }}
   </div>
   <div class="carousel-bar">
     <div class="container">
-      <div id="carousel-{{ forloop.index0 }}" class="carousel slide"
-        data-ride="carousel">
+      <div id="carousel-{{ forloop.index0 }}" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           {% assign imageDir = 'assets/images/' %}
           {% assign imagePath = imageDir | append: 'home/tools/' | append: tools %}
@@ -18,23 +17,19 @@
           {% for image in site.static_files %}
           {% if image.path contains imagePath %}
           <div class="carousel-item col-12 col-md-4">
-            <a href="{{ site.baseurl }}/{{ imagePath }}/{{ image.name }}"
-              data-fancybox="{{ tools }}-album">
-              <img data-sizes="auto"
-                data-srcset="{{ site.baseurl }}/{{ thumbnailPath }}/{{ image.name }}"
-                alt="" class="d-block img-fluid img-thumbnail lazyload" />
+            <a href="{{ site.baseurl }}/{{ imagePath }}/{{ image.name }}" data-fancybox="{{ tools }}-album">
+              <img data-sizes="auto" data-srcset="{{ site.baseurl }}/{{ thumbnailPath }}/{{ image.name }}" alt=""
+                class="d-block img-fluid img-thumbnail lazyload" />
             </a>
           </div>
           {% endif %}
           {% endfor %}
         </div>
-        <a class="carousel-control-prev" href="#carousel-{{ forloop.index0 }}"
-          role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#carousel-{{ forloop.index0 }}" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
         </a>
-        <a class="carousel-control-next" href="#carousel-{{ forloop.index0 }}"
-          role="button" data-slide="next">
+        <a class="carousel-control-next" href="#carousel-{{ forloop.index0 }}" role="button" data-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>

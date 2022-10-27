@@ -1,48 +1,43 @@
 <div class="contact">
-  <h2>{% t contact.title %}</h2>
+  <h2>{{ site.data.translations.contact.title[page.language] }}</h2>
   <div class="row">
     <div class="col-12 col-md-6">
       <div class="contact-info">
-        <p>{% t contact.description %}</p>
+        <p>{{ site.data.translations.contact.description[page.language] }}</p>
         <div class="contact">
           <div class="contact-company">
-            <img data-src="{{ '/assets/icons/company.svg' | relative_url }}"
-              alt="Company" class="lazyload" />
-            <b>{% t contact.company %}</b>
+            <img data-src="{{ '/assets/icons/company.svg' | relative_url }}" alt="Company" class="lazyload" />
+            <b>{{ site.data.translations.contact.company[page.language] }}</b>
           </div>
           <div class="contact-company-registration-number">
-            <img data-src="{{ '/assets/icons/certificate.svg' | relative_url }}"
-              alt="Company registration number" class="lazyload" />
-            {% t contact.company-registration-number %}
+            <img data-src="{{ '/assets/icons/certificate.svg' | relative_url }}" alt="Company registration number"
+              class="lazyload" />
+            {{ site.data.translations.contact.company_registration_number[page.language] }}
           </div>
           <div class="contact-eu-tax-number">
-            <img data-src="{{ '/assets/icons/tax.svg' | relative_url }}"
-              alt="EU tax number" class="lazyload" />
-            {% t contact.eu-tax-number %}
+            <img data-src="{{ '/assets/icons/tax.svg' | relative_url }}" alt="EU tax number" class="lazyload" />
+            {{ site.data.translations.contact.eu_tax_number[page.language] }}
           </div>
           <div class="contact-address">
-            <img data-src="{{ '/assets/icons/map.svg' | relative_url }}"
-              alt="Map" class="lazyload" />
-            <a href="{% t contact.google-map-url %}"
-              target="_blank">{% t contact.address %}</a>
+            <img data-src="{{ '/assets/icons/map.svg' | relative_url }}" alt="Map" class="lazyload" />
+            <a href="{{ site.data.translations.contact.google_map_url[page.language] }}" target="_blank">
+              {{ site.data.translations.contact.address[page.language] }}
+            </a>
           </div>
           <div class="contact-phone">
-            <img data-src="{{ '/assets/icons/phone.svg' | relative_url }}"
-              alt="Phone" class="lazyload" />
-            <a href="tel:{% t contact.phone-number %}">
-              {% t contact.phone-text %}
+            <img data-src="{{ '/assets/icons/phone.svg' | relative_url }}" alt="Phone" class="lazyload" />
+            <a href="tel:{{ site.data.translations.contact.phone_number[page.language] }}">
+              {{ site.data.translations.contact.phone_text[page.language] }}
             </a>
           </div>
           <div class="contact-email">
-            <img data-src="{{ '/assets/icons/email.svg' | relative_url }}"
-              alt="Email" class="lazyload" />
+            <img data-src="{{ '/assets/icons/email.svg' | relative_url }}" alt="Email" class="lazyload" />
             <a href="javascript:"
-              data-email="{% t contact.email.recipient-name %}[at]{% t contact.email.domain %}[dot]{% t contact.email.top-level-domain %}"></a>
+              data-email="{{ site.data.translations.contact.email.recipient_name[page.language] }}[at]{{ site.data.translations.contact.email.domain[page.language] }}[dot]{{ site.data.translations.contact.email.top_level_domain[page.language] }}"></a>
           </div>
           <div class="contact-bank-iban">
-            <img data-src="{{ '/assets/icons/bank.svg' | relative_url }}"
-              alt="Bank IBAN" class="lazyload" />
-            {% t contact.bank-iban %}
+            <img data-src="{{ '/assets/icons/bank.svg' | relative_url }}" alt="Bank IBAN" class="lazyload" />
+            {{ site.data.translations.contact.bank_iban }}
           </div>
         </div>
       </div>
@@ -53,38 +48,48 @@
           <input type="hidden" id="formspark-contact-form-action-url"
             value="{{ site.formspark_contact_form_action_url }}" />
           <div class="form-group">
-            <label for="name">{% t contact.name %} <sup>*</sup></label>
+            <label for="name">
+              {{ site.data.translations.contact.name[page.language] }}
+              <sup>*</sup>
+            </label>
             <input type="text" id="name" class="form-control" />
-            <div class="alert alert-danger">{% t contact.incorrect %}</div>
+            <div class="alert alert-danger">
+              {{ site.data.translations.contact.incorrect[page.language] }}
+            </div>
           </div>
           <div class="form-group">
-            <label for="email-address">{% t contact.email-address %}
+            <label for="email-address">
+              {{ site.data.translations.contact.email_address[page.language] }}
               <sup>*</sup>
             </label>
             <input type="text" id="email-address" class="form-control" />
             <div class="alert alert-danger">
-              <div>{% t contact.incorrect-email %}</div>
-              <div>{% t contact.incorrect %}</div>
+              <div>{{ site.data.translations.contact.incorrect_email[page.language] }}</div>
+              <div>{{ site.data.translations.contact.incorrect[page.language] }}</div>
             </div>
           </div>
           <div class="form-group">
-            <label for="message">{% t contact.message %} <sup>*</sup></label>
+            <label for="message">
+              {{ site.data.translations.contact.message[page.language] }}
+              <sup>*</sup>
+            </label>
             <textarea id="message" class="form-control" rows="4"></textarea>
-            <div class="alert alert-danger">{% t contact.incorrect %}</div>
+            <div class="alert alert-danger">
+              {{ site.data.translations.contact.incorrect[page.language] }}
+            </div>
           </div>
-          <button type="button" id="contact-form-send-button"
-            class="btn btn--bg-color-persian-green">
+          <button type="button" id="contact-form-send-button" class="btn btn--bg-color-persian-green">
             <div class="spinner-border spinner-border-sm">
               <span class="sr-only">Loading...</span>
             </div>
-            {% t contact.submit %}
+            {{ site.data.translations.contact.submit[page.language] }}
           </button>
           <div id="status" class="mt-3">
             <div id="status-success" class="alert alert-success">
-              {% t contact.success %}
+              {{ site.data.translations.contact.success[page.language] }}
             </div>
             <div id="status-error" class="alert alert-danger">
-              {% t contact.error %}
+              {{ site.data.translations.contact.error[page.language] }}
             </div>
           </div>
         </form>

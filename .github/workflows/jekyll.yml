@@ -11,8 +11,8 @@ jobs:
     name: Build and Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout V2
-        uses: actions/checkout@v2
+      - name: Checkout V3
+        uses: actions/checkout@v3
 
       - name: Install imagemagick and graphicsmagick
         run: |
@@ -25,12 +25,12 @@ jobs:
           ruby-version: 2.7
 
       - name: Cache bundle dependencies
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
-            ${{ runner.os }}-gem-
+            ${{ runner.os }}-gems-
 
       - name: Install bundler
         run: |
@@ -42,12 +42,14 @@ jobs:
           bundle install --jobs 4 --retry 3
 
       - name: Use Node.js 16.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: 16
+          cache: 'npm'
 
       - name: Cache npm dependencies
-        uses: actions/cache@v1
+        uses: actions/cache@v3
+        id: npm-cache
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
