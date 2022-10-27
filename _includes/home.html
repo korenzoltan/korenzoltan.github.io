@@ -1,8 +1,8 @@
 <div class="home">
   <section class="intro">
     <div class="headline">
-      <h1>{% t global.title %}</h1>
-      <h2>{% t global.subtitle %}</h2>
+      <h1>{{ site.data.translations.home.title[page.language] }}</h1>
+      <h2>{{ site.data.translations.home.subtitle[page.language] }}</h2>
     </div>
   </section>
   <section id="tools">
@@ -10,7 +10,8 @@
   </section>
   <section id="about">
     <div class="container">
-      {% tf about.md %}
+      {% capture about %}{% include_relative about.md %}{% endcapture %}
+      {{ about | markdownify }}
     </div>
   </section>
   <section id="contact">

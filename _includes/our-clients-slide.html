@@ -1,8 +1,7 @@
 {% for image in site.static_files %}
 {% if image.path contains include.path %}
 <div class="slide">
-  <img data-src="{{ site.baseurl }}{{ image.path }}" alt=""
-    class="lazyload lazypreload" />
+  <img data-src="{{ site.baseurl }}{{ image.path }}" alt="" class="lazyload lazypreload" />
 </div>
 {% endif %}
 {% endfor %}

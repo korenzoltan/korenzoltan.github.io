@@ -1,5 +1,5 @@
 <main>
-  <div id="{{ page.slug }}">
+  <div id="{{ page.language_reference }}">
     <section>
       <div class="container">
         {{ content }}
@@ -10,24 +10,20 @@
       <div class="container">
         <div id="carousel-0" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
-            {% for data in site.data[site.lang][page.filename] %}
-            {% assign videoThumb = 'assets/images/' | append: data.video-thumb %}
+            {% for data in site.data[page.language][page.filename] %}
+            {% assign videoThumb = 'assets/images/' | append: data.video_thumb %}
             <div class="carousel-item col-12 col-md-4">
-              <a href="{{ data.video-src }}"
-                data-fancybox="{{ page.filename }}-gallery">
-                <img data-src="{{ videoThumb | relative_url }}" alt=""
-                  class="d-block lazyload" />
+              <a href="{{ data.video_src }}" data-fancybox="{{ page.filename }}-gallery">
+                <img data-src="{{ videoThumb | relative_url }}" alt="" class="d-block lazyload" />
               </a>
             </div>
             {% endfor %}
           </div>
-          <a class="carousel-control-prev" href="#carousel-0" role="button"
-            data-slide="prev">
+          <a class="carousel-control-prev" href="#carousel-0" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
           </a>
-          <a class="carousel-control-next" href="#carousel-0" role="button"
-            data-slide="next">
+          <a class="carousel-control-next" href="#carousel-0" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </a>

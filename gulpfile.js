@@ -232,10 +232,11 @@ gulp.task('watch', function (done) {
   gulp.watch(
     [
       '_data/**/*.*',
-      '_i18n/**/*.*',
       '_includes/**/*.*',
       '_layouts/**/*.*',
-      'pages/**/*.*',
+      'en/**/*.*',
+      'es/**/*.*',
+      'hu/**/*.*',
     ],
     gulp.series('jekyll-build')
   );

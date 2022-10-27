@@ -36,7 +36,7 @@ linkedin:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-multiple-languages-plugin
+  - jekyll-redirect-from
 
 languages: ['es', 'en', 'hu']
 language_default: 'es'
