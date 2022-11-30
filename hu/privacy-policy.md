@@ -142,8 +142,8 @@ A Weboldal jelenleg nem használ sütiket. A következő sütik használata elő
 | -------------- | ------------------------------------------------------- | ----------------------------------------------- |
 | \_Fbp facebook | Felhasználó azonosítására szolgál facebooknak | Egy munkamenet – amíg be nem zárják a böngészőt |
 | Fr facebook | Felhasználó azonosítására szolgál faceboknak | 3 hónap |
-| \_ga | Felhasználó azonosításra szolgál a google analytics-nek | 2 év |
-| \_gid | Felhasználó azonosításra szolgál a google analytics-nek | 24 óra |
+| \_ga | Felhasználó azonosításra szolgál a Google Analytics-nek | 2 év |
+| \_gid | Felhasználó azonosításra szolgál a Google Analytics-nek | 24 óra |
 
 **Google AdWords remarketing:** A weboldalon tett látogatások során egy vagy több sütit küld a weboldal a látogató számítógépére, amely(ek) révén annak böngészője egyedileg azonosítható lesz. Ezen sütik a Google által biztosítottak, felhasználásuk a Google Adwords rendszerén keresztül történik. Ezeket a sütiket csak egyes aloldalak látogatása esetén küldi el a weboldal a látogató számítógépére, tehát ezekben csak az adott aloldal meglátogatásának tényét és idejét tároljuk, semmilyen más információt nem. A Google, ezen sütik segítségével tárolja, ha az érintett korábban már látogatást tett a hirdető webhelyén, és ez alapján hirdetéseket jelenítenek meg a felhasználónak külső szolgáltatók - közöttük a Google - partnereinek internetes webhelyein. A felhasználók a Google hirdetések kikapcsolására szolgáló oldalon tilthatják le a Google cookie-jait. (Azt is jelezheti a felhasználók számára, hogy a Network Advertising Initiative leiratkozási oldalán a külső szolgáltatók sütijeit is letilthatják): [www.google.com/ads/preferences/](https://www.google.com/ads/preferences/){:target="\_blank"}
 

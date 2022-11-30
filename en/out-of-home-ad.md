@@ -1,48 +1,47 @@
 ---
 layout: page
 permalink: /en/out-of-home-ad/
-title: Out of Home ad
+title: Out of Home advertising
 language: en
 language_reference: out-of-home-ad
 ---
 
-# Out of Home ad
+# Out of Home advertising
 
-Az Out of Home (röviden OOH) média magában foglal minden olyan reklámeszközt és hirdetési célú megjelenést, amellyel otthonunk falai közül kilépve találkozunk. Napi rutinunk során kikerülhetetlenek.
+Out of Home (OOH) media encompass all the advertising materials and publicity appearances that we encounter outside our homes. They are unavoidable in our daily routine.
 
-Ott vannak:
+They are everywhere:
 
-- autózás közben
-- a buszra várva
-- bevásárlásnál
-- az orvosi rendelőben
-- vagy akár fodrásznál.
+- while driving the car
+- while waiting for the bus
+- while grocery shopping
+- in the doctor's surgery
+- or even at the hairdresser's.
 
-Az OOH kampányok gerincét olyan klasszikus közterületi reklámfelületek (teszik ki, mint az óriásplakát és a citylight vagy a már szintén hagyományosnak számító járműreklám. Mivel országszerte jelentős számban megtalálhatóak nagy területi lefedettséget, és ezáltal a célcsoport széleskörű elérését biztosítják. Előnyük a relatív nagy reklámfelület, a precíz tervezhetőség és a számszakilag mérhető hatékonyság.
+The backbone of OOH campaigns is made up of classic public space advertising surfaces, such as billboards and citylights, or now also traditional vehicle advertising. As they can be found in significant numbers throughout the country, they offer a wide territorial coverage and thus a broad reach of the target group. Their advantages are a relatively large advertising surface, precise designability and quantifiable effectiveness.
 
-Szerintünk a klasszikus eszközök alapját képezik az OOH reklámozásnak, ezért is vettük fel őket portfóliónkba.
+We believe that the classic tools are the basis of OOH advertising, which is why we have included them in our portfolio.
 
-De mindig van valaki, aki ki akar lógni a sorból! Az elmúlt 10 évben szerencsére Spanyolországban is megnőtt a hirdetők igénye a megszokottól eltérő, egyedi megoldásokra. Megjelentek az utcán a mozgó óriásplakátok, brandingelt kerékpárok és segwayek, összefoglalóan az ambient médiaeszközök.
+But there is always someone who wants to stand out! Luckily, over the last 10 years, advertisers' need for different and unique solutions has grown in Spain. Moving billboards, branded bicycles and segways, commonly referred to as ambient media tools, have appeared on the streets.
 
-Változatosságuk, különlegességük miatt egyre több cég építi be használatukat kommunikációjába.
-Fő jellemzőjük, és egyben céljuk, a meghökkentés: a fogyasztókat meglepő helyen, helyzetben és legfőképpen meglepő reklámfelülettel érik el. Tapasztalataink azt mutatják, hogy a célcsoport nyitottan és befogadóan áll az ilyen típusú reklámokhoz.
+Because of their diversity and uniqueness, more and more companies are incorporating the use of these tools in their communications. Their main characteristic, and also their aim, is to amaze: they reach consumers in surprising places, situations and, above all, with surprising advertising surfaces. Our experiences show that the target group is open and receptive to this kind of advertising.
 
-## About
+## About us
 
-Cégünk, a Magyar PromoGroup tíz éve, az angliai anyavállalt franchise partnereként kezdte hazai pályafutását egy speciális reklámkerékpár bevezetésével.
+Our company, the Hungarian PromoGroup, started its Hungarian career as a franchise partner of the parent company in England with the introduction of a special advertising bicycle.
 
-A PromoBike biciklik sikere arra buzdított minket, hogy bővítsük a palettát és további egyedi reklámeszközöket fejlesszünk. Lelkesedésünk töretlen, időről-időre megjelenünk az utcán egy új médiaeszközzel, mely mindig nagy érdeklődést vált ki az emberekből. Az EMBEREKből, akik ügyfeleink célcsoportját alkotják.
+The success of PromoBike bicycles has encouraged us to increase the portfolio and develop more unique promotional tools. Our enthusiasm is unbroken; every now and then we hit the streets with a new media tool that always generates a lot of interest in the people. The PEOPLE who are the target group of our clients.
 
-Hosszan írhatnánk az Out of Home médiában rejlő lehetőségekről, de a veleje úgyis 2 szó:
+We could write at length about the potential of Out of Home media, but the essence is two words:
 
-**Végtelen sokszínűség.**
+**Endless diversity.**
 
-> Marshall McLuhan óta tudjuk, hogy
+> Since Marshall McLuhan we know that
 >
-> „a média maga az üzenet”.
+> „the medium is the message”.
 
-Ez a gondolat nagyon is kézzel foghatóvá, illetve szemmel láthatóvá válik, amint kilépünk az utcára és szembe találkozunk az első hirdetéssel. Milyen érzéseket kelt? Igényes, jól elhelyezett, különleges? Netán elhanyagolt vagy szinte észrevehetetlen? Reméljük az előbbi. Legfőképpen azért, mert ezek a jelzők mind a hirdetésen szereplő brandhez kötődnek...
+This idea becomes very tangible and visible as soon as we step out onto the street and encounter the first advertisement that comes in our way. How does it make you feel? Is it sophisticated, well placed, special? Maybe neglected or almost unnoticeable? Let's hope it's the former. Most of all, because these adjectives are associated with the brand on the advertisement...
 
-Nekünk az a dolgunk, hogy ne csak reméljük, hanem tegyünk is azért, hogy ügyfeleink Out of Home megjelenései a lehető legpozitívabb érzéseket ébresszék a célcsoportban és persze ösztönzőleg hassanak a termék/szolgáltatás kipróbálásra.
+Our job is not only to hope, but to do, so our customers' Out of Home appearances evoke the most positive feelings possible in the target group - and, of course, encourage them to try the product or service.
 
-2020 nyarától már nem csak Magyarország vonzáskörzetében bonyolítunk reklám kampányokat, hanem Spanyolországban is.
+From the summer of 2021 we have been running advertising campaigns not only in the catchment area of Hungary but also in Spain.

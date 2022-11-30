@@ -1,9 +1,9 @@
-## Rólunk-Magyarországi központ
+## About us - The Hungarian head office
 
-Cégünk, a Magyar PromoGroup 16 éve, az **angliai** anyavállalat franchise partnereként kezdte hazai pályafutását egy speciális reklámkerékpár bevezetésével.
+Our company, the Hungarian PromoGroup, started its Hungarian career 16 years ago as a franchise partner of the parent company in **England** with the introduction of a special advertising bicycle.
 
-2018-tól már nem csak Magyarország vonzáskörzetében bonyolítunk reklám kampányokat hanem **Szlovákiában** is.
+From 2018, we have been running advertising campaigns not only in Hungary but also in **Slovakia**.
 
-2019-től már **Ausztria** területén is kampányoltunk.
+Since 2019, our PromoVan advertising truck service is also available in **Austria**.
 
-2020-tól már **Spanyolország** területén is elérhetőek lesznek a szolgáltatásaink.
+From 2023, our services will also be available in the territory of **Spain**.

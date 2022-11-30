@@ -5,7 +5,7 @@ home:
     hu: Out of Home
   subtitle:
     es: Variedad multicolor
-    en: ''
+    en: Endless diversity - 4 countries from 2023!
     hu: Végtelen sokszínűség - 2023-tól már 4 országban!
 
 contact:
@@ -15,7 +15,7 @@ contact:
     hu: Kapcsolat
   description:
     es: ¿Tienes preguntas? Contacta nuestro centro en Hungría y en un sólo día tendrás tu respuesta.
-    en: Got a question? Please contact our Hungarian center, who will answer all your questions within 1 day.
+    en: Any questions? Please contact our head office in Hungary and they will answer all your questions within 1 day.
     hu: Kérdésed van? Kérlek, vedd fel a kapcsolatot a Magyarországi központunkkal, akik 1 napon belül válaszolnak minden kérdésedre.
   name:
     es: Nombre
@@ -149,7 +149,7 @@ menu:
 
   - title:
       es: Sobre nosotros
-      en: About
+      en: About us
       hu: Rólunk
     slug: about
     submenu:
@@ -174,7 +174,7 @@ menu:
 footer:
   description:
     es: Fuera de casa. Variedad multicolor.
-    en: Out of Home media.
+    en: Out of Home media. Endless diversity.
     hu: Out of Home média. Végtelen sokszínűség.
   copyright:
     es: Todos los derechos reservados.

@@ -142,8 +142,8 @@ El sitio web no utiliza actualmente cookies. Las siguientes galletas están en p
 | ------------------- | -------------------------------------------- | ---------------------------------------- |
 | \_Fbp facebook | Se utiliza para identificar al usuario ante facebook | Una sesión - hasta que se cierra el navegador |
 | Fr facebook | utiliza para identificar al usuario a facebok | 3 meses |
-| \_ga | Utilizado para la identificación de usuarios para google analytics | 2 años |
-| \_gid | Identificación del usuario para google analytics | 24 horas |
+| \_ga | Utilizado para la identificación de usuarios para Google Analytics | 2 años |
+| \_gid | Identificación del usuario para Google Analytics | 24 horas |
 
 **Google AdWords remarketing:** durante las visitas al sitio web, el sitio web envía una o más cookies al ordenador del visitante, que identificarán de forma exclusiva el navegador o navegadores del visitante. Estas cookies son proporcionadas por Google y se utilizan a través del sistema de Google Adwords. Estas cookies sólo se envían al ordenador del visitante cuando se visitan determinadas subpáginas, es decir, sólo almacenan el hecho y la hora de la visita a la subpágina en cuestión y ninguna otra información. Google utilizará estas cookies para almacenar si el sujeto de los datos ha visitado previamente el sitio web del anunciante y, sobre esta base, mostrar anuncios al usuario en los sitios web de socios de proveedores de servicios externos, incluido Google. Los usuarios pueden inhabilitar las cookies de Google visitando la página de inhabilitación publicitaria de Google (también puede indicar a los usuarios que pueden inhabilitar las cookies de proveedores de servicios de terceros visitando la página de inhabilitación de la Iniciativa de Publicidad en Red): [www.google.com/ads/preferences/](https://www.google.com/ads/preferences/){:target="\_blank"}
 

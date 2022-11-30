@@ -1,17 +1,17 @@
 ---
-title: PromoBike bicicletas para publicidad
+title: PromoBike advertising bicylce
 slug: promobike
 page-url: four-wheel-ad
-video_src: https://www.youtube.com/watch?v=Bn-CR8sgNRg
+video_src: https://www.youtube.com/watch?v=VSp-SlVSgto
 video_thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.JPG
 language: en
 language_reference: promobike
 ---
 
-Comienzo de tu campaña en 3 días hábiles.
+Readying the campaign in 3 working days!
 
-A partir de 100 EUR / vehículo / día.
+From 100 EUR / trailer / day.
 
-Tamaño del cartel: 120 x 180 cm (CLP).
+Poster size: 120x180 cm (CLP).
 
-Promo Solutions Kft, la franquicia húngara de la empresa Promogroup LTD ubicada en Londres organiza campañas publicitarias en Europa desde 2004.
+Promo Solutions Kft., the Hungarian partner of the London-based Promogroup Ltd, has been organising advertising campaigns in Europe since 2004.

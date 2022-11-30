@@ -9,20 +9,20 @@ language_reference: moving-billboard
 
 # Moving billboard
 
-Kapcsolódó szolgáltatások
+Related services
 
-- kampánytervezés célcsoportra optimalizálva
-- útvonaltervezés a Szonda Ipsos forgalmi adatai alapján
-- reklámfelületek biztosítása (óriásplakát)
-- grafika nyomtatása és kihelyezése
-- napi fotós riport és online GPS nyomkövetés
-- online GPS nyomonkövetés
+- campaign design optimised for the target group
+- route planning based on traffic data from Szonda Ipsos
+- providing advertising space (billboards)
+- printing and publishing graphics
+- daily photo report and online GPS tracking
+- online GPS tracking
 
-Kiegészítő lehetőségek
+Additional options
 
-- hátfal és légterelő branding
-- kihangosítás és megvilágítás
+- rear panel and wind deflector branding
+- PA system and lighting
 
-A reklámfelület mérete megegyezik a standard óriásplakát méretével (5,04x2,38 m).
+The advertising space is the same size as a standard billboard (5,04 x 2,38m).
 
 {% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}
