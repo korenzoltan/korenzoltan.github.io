@@ -20,6 +20,16 @@
           <span class="linkedin"></span>
         </a>
         {% endif %}
+        {% if site.youtube.username %}
+        <a href="https://www.youtube.com/@{{ site.youtube.username }}" target="_blank">
+          <span class="youtube"></span>
+        </a>
+        {% endif %}
+        {% if site.google_business.username %}
+        <a href="https://g.page/r/{{ site.google_business.username }}" target="_blank">
+          <span class="google-business"></span>
+        </a>
+        {% endif %}
       </div>
     </div>
   </div>

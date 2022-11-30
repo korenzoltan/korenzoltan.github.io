@@ -20,7 +20,9 @@
 
     .facebook,
     .twitter,
-    .linkedin {
+    .linkedin,
+    .youtube,
+    .google-business {
       display: inline-block;
       width: 20px;
       height: 20px;
@@ -55,6 +57,26 @@
       &:focus,
       &:hover {
         background-image: url(./../../assets/icons/linkedin-hover.svg);
+      }
+    }
+
+    .youtube {
+      background-image: url(./../../assets/icons/youtube.svg);
+
+      &:active,
+      &:focus,
+      &:hover {
+        background-image: url(./../../assets/icons/youtube-hover.svg);
+      }
+    }
+
+    .google-business {
+      background-image: url(./../../assets/icons/google-business.svg);
+
+      &:active,
+      &:focus,
+      &:hover {
+        background-image: url(./../../assets/icons/google-business-hover.svg);
       }
     }
   }

@@ -2,7 +2,7 @@
 title: PromoBike reklám kerékpár
 slug: promobike
 page-url: four-wheel-ad
-video_src: https://www.youtube.com/watch?v=Ohxpgu850Dw
+video_src: https://www.youtube.com/watch?v=VSp-SlVSgto
 video_thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.JPG
 language: hu
 language_reference: promobike
