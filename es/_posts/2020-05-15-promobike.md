@@ -2,7 +2,7 @@
 title: PromoBike bicicletas para publicidad
 slug: promobike
 page-url: four-wheel-ad
-video_src: https://www.youtube.com/watch?v=Bn-CR8sgNRg
+video_src: https://www.youtube.com/watch?v=VSp-SlVSgto
 video_thumb: home/tools/promobike/creaticapublicidad_promobike_heineken.JPG
 language: es
 language_reference: promobike

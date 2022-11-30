@@ -8,7 +8,7 @@ language_reference: legal-notice
 
 # Jogi nyilatkozat
 
-A [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} weboldalon található tartalom a Promo Solutions Kft( továbbiakban: PromoGroup) szellemi tulajdona.
+A [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} weboldalon található tartalom a Promo Solutions Kft. (továbbiakban: PromoGroup) szellemi tulajdona.
 
 A PromoGroup fenntart minden, a lap bármely részének bármilyen módszerrel, technikával történô másolásával és terjesztésével kapcsolatos jogot. A laphoz tartozó oldalak tartalmát és kialakítását nemzetközi és magyar törvények védik.
 

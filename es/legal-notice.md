@@ -1,5 +1,3 @@
-<<<<<<< HEAD:_i18n/es/legal-notice.md
-=======
 ---
 layout: page
 permalink: /es/legal-notice/
@@ -8,17 +6,16 @@ language: es
 language_reference: legal-notice
 ---
 
->>>>>>> release:es/legal-notice.md
 # Aviso legal
 
-A [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} weboldalon található tartalom a PromoGroup Kft. szellemi tulajdona.
+El contenido del sitio web [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} es propiedad intelectual de Promo Solutions Kft. ("PromoGroup").
 
-A PromoGroup fenntart minden, a lap bármely részének bármilyen módszerrel, technikával történô másolásával és terjesztésével kapcsolatos jogot. A laphoz tartozó oldalak tartalmát és kialakítását nemzetközi és magyar törvények védik.
+PromoGroup se reserva todos los derechos de reproducción y distribución de cualquier parte de este sitio web por cualquier medio o técnica. El contenido y el diseño de las páginas de este sitio están protegidos por las leyes internacionales y húngaras.
 
-A PromoGroup előzetes írásos hozzájárulása nélkül tilos a lap egészének vagy részeinek (szöveg, grafika, fotó, audio- vagy videoanyag, adatszerkezet, struktúra, eljárás, program stb.) feldolgozása és értékesítése. A lap tartalmának egyes részeit - kizárólag saját felhasználás céljából - merevlemezére mentheti vagy kinyomtathatja, de ebben az esetben sem jogosult a lap így többszörözött részének további felhasználására, terjesztésére, adatbázisban történô tárolására, letölthetôvé tételére, kereskedelmi forgalomba hozatalára.
+Queda prohibido el tratamiento y la venta de la totalidad o parte del sitio (textos, gráficos, fotografías, material de audio o vídeo, estructura de datos, procedimientos, programas, etc.) sin el consentimiento previo por escrito de PromoGroup. Puede guardar partes del contenido de la revista en su disco duro o imprimirlas sólo para su propio uso, pero no tiene derecho a utilizar, distribuir, almacenar en una base de datos, descargar o comercializar las partes reproducidas de la revista.
 
-A PromoGroup oldalai teljes egészében, a reklámokkal, hirdetésekkel együtt szerzôi jogvédelem alatt állnak, azokból bármely részt kivágni, a megcsonkított részt pedig nyilvánossághoz bármely módon újraközvetíteni tilos. Tilos továbbá a PromoGroup előzetes írásbeli engedélye nélkül a lap tartalmát tükrözni, azaz technikai mûvelet segítségével nyilvánossághoz újraközvetíteni, még változatlan formában is.
+Las páginas de PromoGroup están protegidas por los derechos de autor en su totalidad, incluida toda la publicidad, y está prohibido recortar cualquier parte de ellas o redistribuir la parte mutilada al público de cualquier manera. También está prohibida la reproducción del contenido del sitio, es decir, la retransmisión al público mediante operaciones técnicas, incluso en forma inalterada, sin la previa autorización por escrito de PromoGroup.
 
-A jogosulatlan felhasználás büntetô- és polgári jogi következményeket von maga után. Az PromoGroup követelheti a jogsértés abbahagyását és kárának megtérítését.
+El uso no autorizado dará lugar a sanciones penales y civiles. PromoGroup podrá exigir el cese de la infracción y la indemnización por daños y perjuicios.
 
-A [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} domainnév, valamint a "www.creativapublicidad.es" név szerzôi jogi védelmet élvez, védjegyoltalomban részesül, felhasználása - a hivatkozás kivételével - kizárólag az PromoGroup előzetes és kifejezett írásos hozzájárulásával lehetséges.
+El nombre de dominio [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"}, así como el nombre "www.creativapublicidad.es", están protegidos por derechos de autor, marca registrada y otros derechos de propiedad intelectual, y no pueden ser utilizados, salvo a efectos de referencia, sin el consentimiento previo y expreso por escrito de PromoGroup.

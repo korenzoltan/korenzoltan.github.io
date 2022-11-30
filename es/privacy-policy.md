@@ -8,190 +8,190 @@ language_reference: privacy-policy
 
 # Información sobre el tratamiento de datos
 
-## Tartalomjegyzék
+## Índice de contenidos
 
-1. Bevezetés, Adatkezelő adatai, elérhetősége
-2. A szabályzat hatálya
-   1. Időbeli hatály
-   2. Személyi hatály
-   3. Tárgyi hatály
-3. Adatkezelések, azok jogalapja, célja, időtartama, a kezelt adatok köre
-   1. Hírlevél és reklámajánlatok küldése
-4. Profilalkotás
-5. Adatfeldolgozók
-6. Adattovábbítás
-7. A <communication@creativapublicidad.es> weboldal használatával és működésével kapcsolatos technikai jellegű adatkezelés
-8. Érintettek jogai, jogorvoslati lehetőségek
-9. Az adatkezelés biztonsága
+1. Introducción, datos del responsable del tratamiento, datos de contacto
+2. Alcance de la política
+   1. Ámbito temporal
+   2. Ámbito personal
+   3. Alcance del material
+3. Tratamiento de datos, su base jurídica, finalidad, duración, alcance de los datos tratados
+   1. Envío de boletines y ofertas promocionales
+4. Perfilado
+5. Procesadores de datos
+6. Transferencia de datos
+7. Tratamiento de datos de carácter técnico relacionados con el uso y funcionamiento del sitio web <communication@creativapublicidad.es>
+8. Derechos de los interesados, recursos
+9. Seguridad del tratamiento de datos
 
-## 1. Bevezetés, Adatkezelő adatai, elérhetősége
+## 1. Introducción, datos del responsable del tratamiento, datos de contacto
 
-AZ EURÓPAI PARLAMENT ÉS A TANÁCS (EU) 2016/679 RENDELETE (általános adatvédelmi rendelet, a továbbiakban: GDPR) rendelkezéseinek megfelelően az communication@creativapublicidad.es weboldallal kapcsolatosan folytatott adatkezelésről az alábbi tájékoztatást adjuk.
+De conformidad con lo dispuesto en el REGLAMENTO (UE) 2016/679 DEL PARLAMENTO EUROPEO Y DEL CONSEJO (Reglamento General de Protección de Datos, en adelante "RGPD"), se ofrece la siguiente información sobre el tratamiento de datos en relación con el sitio web communication@creativapublicidad.es.
 
-Az érintett a Weboldal használatával akként nyilatkozik, hogy 16. életévét betöltötte. 16 éven aluli személy a Weboldalon nem regisztrálhat, szolgáltatást nem vehet igénybe, hírlevélre nem iratkozhat fel, tekintettel arra, hogy GDPR 8. cikk (1) bekezdése alapján az adatkezeléshez történő hozzájárulását tartalmazó jognyilatkozatának érvényességéhez törvényes képviselőjének engedélye szükséges. Az Adatkezelőnek nem áll módjában a hozzájáruló személy életkorát és jogosultságát ellenőrizni, így az érintett szavatol azért, hogy a megadott adatai valósak. A megadott adatok valóságáért az érintett tartozik felelősséggel.
+Al utilizar el sitio web, el interesado declara tener al menos 16 años de edad. Una persona menor de 16 años no puede registrarse en el sitio web, utilizar los servicios o suscribirse a los boletines informativos, dado que, de conformidad con el artículo 8, apartado 1, del RGPD, la validez de su declaración de consentimiento para el tratamiento de datos requiere el consentimiento de su representante legal. El responsable del tratamiento no está en condiciones de verificar la edad y el derecho de la persona que da su consentimiento, por lo que el interesado garantiza que los datos que ha proporcionado son exactos. El interesado es responsable de la exactitud de los datos facilitados.
 
-AZ ADATKEZELŐ ÉS ELÉRHETŐSÉGEI:
+EL CONTROLADOR Y LOS DATOS DE CONTACTO:
 
-Név: PROMO SOLUTIONS LTD
+Nombre: PROMO SOLUTIONS LTD
 
-Székhely: EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37
+Dirección: EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37
 
-Cégjegyzékszám: HU26174073
+Número de registro de la empresa: HU26174073
 
-Adószám: HU26174073
+Número de impuesto: HU26174073
 
-E-mail: <communication@creativapublicidad.es>, <zoltankoren@promogroup.hu>
+Correo electrónico: <communication@creativapublicidad.es>, <zoltankoren@promogroup.hu>
 
-Telefonszám: +36207764647
+Número de teléfono: +36207764647
 
-AZ ADATVÉDELMI TISZTVISELŐ ELÉRHETŐSÉGEI
+DATOS DE CONTACTO DEL RESPONSABLE DE LA PROTECCIÓN DE DATOS
 
-Név: Koren Zoltán
+Nombre: Zoltán Koren
 
-Székhely: EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37
+Dirección: EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37
 
-E-mail: <communication@creativapublicidad.es>, <zoltankoren@promogroup.hu>
+Correo electrónico: <communication@creativapublicidad.es>, <zoltankoren@promogroup.hu>
 
-Telefon: +36207764647
+Teléfono: +36207764647
 
-Amennyiben megkeresné Társaságunkat, a jelen tájékoztatóban megadott, illetve a honlapon elhelyezett elérhetőségeken és a [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} weboldal "Kapcsolat" menüpontjában található központi e-mail cím igénybevételével léphet kapcsolatba az adatkezelővel.
+Si desea ponerse en contacto con nuestra empresa, puede hacerlo a través de los datos de contacto que figuran en este aviso, los datos de contacto del sitio web o la dirección de correo electrónico central que figura en la sección "Contacto" del sitio web [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"}.
 
-Az Adatkezelő által kezelt személyes adatokat az Adatkezelőnél az Adatkezelő munkavállalói ismerhetik meg a 2. pontban meghatározott adatkezelési cél eléréséhez szükséges mértékben.
+Los datos personales tratados por el responsable del tratamiento pueden ser revelados a los empleados del responsable del tratamiento en la medida necesaria para los fines del tratamiento, tal como se establece en el punto 2.
 
-## 2. A szabályzat Hatálya (online, és /vagy üzletben átadott adatokra vonatkozik, változtatás joga)
+## 2. Alcance de la política
 
-### 1. Időbeli hatály:
+### 1. Ámbito temporal:
 
-Jelen Szabályzat 2020. augusztus. 1. napjától további rendelkezésig vagy visszavonásig hatályos.
+Esta política está vigente hasta agosto de 2020. 1 de enero de 2020 hasta nuevo aviso o hasta su revocación.
 
-### 2. Személyi hatály:
+### 2. Ámbito de aplicación personal:
 
-Jelen Szabályzat személyi hatálya kiterjed:
+El ámbito de aplicación personal de esta Política incluirá:
 
-- az Adatkezelőre, továbbá
-  - azon személyekre, akik adatait e Szabályzat hatálya alá tartozó adatkezelések tartalmazzák, továbbá
-- azon személyekre, akik jogait vagy jogos érdekeit az adatkezelés érinti
-  Az Adatkezelő tehát elsősorban azoknak a természetes személyeknek az adatait kezeli, akik
-- a számukra elérhető úton keresztül vagy módon – például elektronikus úton, az Adatkezelő bármely e-mail címére küldött adataikkal, közösségi oldalon keresztül, telefonon vagy személyesen –
-  - kapcsolat kialakítása céljából jelentkeztek,
-  - az Adatkezelő szolgáltatásait igénybe vették, vagy megigényelték, és ennek során adataikat megadták; vagy
-  - kapcsolat kialakításán kívül eső más okból vagy célból jelentkeztek;
-- az Adatkezelő természetes személy Partnerei, nem természetes személy Partnereinek képviselői, kapcsolattartói, esetleg egyéb munkavállalói.
+- el responsable del tratamiento, y
+  - las personas cuyos datos están incluidos en las operaciones de tratamiento cubiertas por esta Política; y
+- las personas cuyos datos están incluidos en las operaciones de tratamiento cubiertas por esta Política
+  Por lo tanto, el responsable del tratamiento trata principalmente los datos de las personas físicas que
+- a través de cualquier medio o por cualquier medio disponible para ellos, como por ejemplo por medios electrónicos, enviando sus datos a cualquier dirección de correo electrónico del Responsable del Tratamiento, a través de una red social, por teléfono o en persona
+  - poniéndose en contacto con el responsable del tratamiento,
+  - ha utilizado o solicitado los servicios del responsable del tratamiento y ha facilitado sus datos al hacerlo; o
+  - se han registrado por un motivo o propósito distinto al de establecer contacto;
+- Socios personas físicas del controlador, representantes, personas de contacto u otros empleados de socios no personas físicas.
 
-### 3. Tárgyi hatály:
+### 3. Ámbito de aplicación:
 
-Jelen tájékoztató hatálya kiterjed az Adatkezelő minden szervezeti egységében folytatott valamennyi, a fent megjelölt személyi kört érintő adatkezelésre függetlenül attól, hogy az elektronikusan és/vagy papíralapon történik. Papíralapú adatkezelés esetében Adatkezelő a jelen tájékoztatótól formailag különálló iratkezelési szabályzatot is bevezet, amely a jelen tájékoztató szerinti általános rendelkezéseket kiegészíti, ezért a jelen Szabályzat mellékletének tekintendő.​
+El ámbito de aplicación del presente aviso abarca todos los tratamientos de las categorías de personas mencionadas anteriormente realizados por todos los departamentos del responsable del tratamiento, tanto si se llevan a cabo por vía electrónica como en papel. En el caso del tratamiento en papel, el responsable del tratamiento introducirá también un conjunto separado de normas sobre el tratamiento en papel, que complementará las disposiciones generales de la presente política y se considerará un anexo de la misma.
 
-Jelen tájékoztató hatálya kiterjed egyrészt az Adatkezelő [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} internetes oldalán és ennek aloldalain, a [www.facebook.com/oohweb](https://www.facebook.com/oohweb){:target="\_blank"} oldalon megtalálható online portálján, másrészt az Adatkezelő székhelyén/telephelyén/ üzleteiben a szolgáltatások igénybevétele kapcsán átadott személyes adatok kezelésére.
+El ámbito de aplicación de esta Política abarca el tratamiento de los datos personales transmitidos en relación con el uso de los servicios en el sitio web del Responsable del Tratamiento [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} y sus subsitios, en su portal en línea [www.facebook.com/oohweb](https://www.facebook.com/oohweb){:target="\_blank"}, y en sus sedes/premisas/tiendas.
 
-Az Adatkezelő fenntartja magának a jogot, hogy a jelen tájékoztatót bármikor egyoldalúan módosítsa. Az esetleges módosításról annak hatályba lépését megelőzően legalább 15 nappal értesíti az érintetteket. A tájékoztató módosításai az Adatkezelő honlapján történő közzététellel lépnek hatályba.
+El responsable del tratamiento se reserva el derecho de modificar unilateralmente esta información en cualquier momento. Notificará al interesado cualquier modificación al menos 15 días antes de que surta efecto. Las modificaciones de la presente notificación entrarán en vigor tras su publicación en el sitio web del interventor.
 
-Jelen tájékoztató hatálya kiterjed egyrészt a Társaságnak a [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} (az innen elérhető aloldalain), a [www.facebook.com/oohweb](https://www.facebook.com/oohweb){:target="\_blank"}, megtalálható online portálján, másrészt a Társaság székhelyén/telephelyén/ üzleteiben a szolgáltatások igénybevétele kapcsán átadott személyes adatok kezelésére.
+El ámbito de aplicación de este aviso abarca el tratamiento de los datos personales proporcionados por la empresa en su portal en línea [www.creativapublicidad.es](https://www.creativapublicidad.es){:target="\_blank"} (en las subpáginas accesibles desde aquí), [www.facebook.com/oohweb](https://www.facebook.com/oohweb){:target="\_blank"}, y en las sedes/premisas/tiendas de la empresa en relación con el uso de sus servicios.
 
-## 3. Adatkezelések, azok jogalapja, célja, időtartama, a kezelt adatok köre
+## 3. Tratamiento, base jurídica, fines, duración y alcance de los datos tratados
 
-Az Adatkezelő a személyes adatokat az alábbi jogalapon, célokból és időtartamig kezeli.
+El responsable del tratamiento trata los datos personales con arreglo a la siguiente base jurídica, para los siguientes fines y durante la siguiente duración.
 
-Megjegyzés: az alábbi folyamatok előkészületben vannak, ezért jelenleg még nem aktívak.
-
-{: .table .table-responsive }
-| Adatkezelés fajtája | Adatkezelés jogalapja | Kezelt adatok köre | Adatkezelés célja | Adatkezelés időtartalma |
-| ------------------- | --------------------- | ------------------ | ----------------- | ----------------------- |
-| Regisztrált ügyfélre vonatkozó adatkezelés | A szolgáltatás igénybevételéhez (szerződés teljesítéséhez) szükséges (GDPR 6. cikk (1) bek. b) pont) | Vezetéknév, keresztnév, email cím, telefonszám, nem, nyelv | Felhasználói fiók aktivációja, kezelése | Az érintett adattörlésre vonatkozó kérelméig, vagy az utolsó bejelentkezéstől számított 5 évig (Ptk. Szerinti elévülési határidőig) |
-| Számlázási adatok kezelése | Az adatkezelőre vonatkozó jogi kötelezettség teljesítése (GDPR 6. cikk (1) bek. c pont) | Név, cím | Áruk és szolgáltatások ellenértékének számlázása | Számviteli törvényben meghatározott határidőig, tehát 8 évig |
-| Hírlevél küldés | Az érintett hozzájárulása (GDPR 6. cikk (1) bek. a) pont) | Név, email cím | Elektronikus úton reklámajánlatok, tájékoztatások, hirdetések (hírlevél) küldése, tájékoztatás nyújtása az aktuális információkról, termékekről, akciókról, új funkcióról | Az érintett hozzájárulásának visszavonásáig.
-| Kapcsolatfelvétel az érintett által | Az érintett hozzájárulása vagy az érintett kérésére történő lépések megtétele (GDPR 6. cikk (1) bek. a) és b) pont) | Az érintett által megadott adatok | Az érintett emailben feltett kérdésének megválaszolása vagy ajánlatkérésére ajánlat küldése | A kérdés feltevését követő 30 napig, fogyasztói kérdés esetén 3 évig. |
-
-A kötelezően megadandó adatok hiányában az Adatkezelő nem tudja az Érintett által igénybe venni kívánt szolgáltatást nyújtani, tehát nem tudja például a felhasználói fiókot létrehozni és kezelni, vagy a rendelést teljesíteni.
-
-### 1. Hírlevél és reklámajánlatok küldése
-
-A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 6.§-a értelmében az Érintett előzetesen és kifejezetten hozzájárulhat ahhoz, hogy az Adatkezelő reklámajánlataival, egyéb küldeményeivel a regisztrációkor vagy hírlevélre feliratkozáskor megadott e-mail elérhetőségén megkeresse és adatait ebből a célból kezelje.
-
-Az Adatkezelő nem küld kéretlen reklámüzenetet, és az Érintett korlátozás és indoklás nélkül, ingyenesen leiratkozhat az ajánlatok küldéséről, hírlevélről. Ebben az esetben az Adatkezelő további reklámajánlataival nem keresi meg az Érintettet. Érintett a reklámokról leiratkozhat az üzenetben lévő linkre kattintva vagy az Adatkezelő elérhetőségein.
-
-## 4. Profilalkotás
-
-Az adatkezelő profilalkotást nem végez.
-
-## 5. Adatfeldolgozók
-
-Adatkezelő az adatokat az ajánlatkérések és rendelések nyilvántartása, a szerződések teljesítése, a weboldal üzemeltetése, hírlevél küldése, valamint a számviteli törvény előírásainak betartása céljából továbbíthatja az alábbi adatfeldolgozók részére.
-
-Az Adatfeldolgozók az adatkezelést az Adatkezelő utasításai szerint végzik, az adatkezelést érintő érdemi döntést nem hozhatnak a tudomásukra jutott személyes adatokat kizárólag az Adatkezelő rendelkezései szerint dolgozhatják fel, saját céljára adatfeldolgozást nem végezhetnek, továbbá a személyes adatokat az Adatkezelő rendelkezései szerint kötelesek tárolni, megőrizni és törölni. Az adatfeldolgozás során az adatokat az adatfeldolgozók munkavállalói ismerhetik meg.
+Nota: los siguientes procesos están en preparación y, por tanto, aún no están activos.
 
 {: .table .table-responsive }
-| Adatfeldolgozó neve | Adatfeldolgozó címe | Adatfeldolgozási tevékenység | Feldolgozással érintett adatok |
-| ------------------- | ------------------- | ---------------------------- | ------------------------------ |
-| PROMO SOLUTIONS LTD | EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37 | Online fizetés lebonyolítása | Vásárló neve, a fizetés összege, dátum, időpont |
+| Tipo de tratamiento | Base legal para el tratamiento | Alcance de los datos tratados | Finalidad del tratamiento | Duración del tratamiento |
+| ------------------- | ------------------------------ | ----------------------------- | ------------------------- | ------------------------ |
+| Tratamiento de datos relativos a un cliente registrado | Necesario para el uso del servicio (ejecución del contrato) (artículo 6, apartado 1, letra b) del RGPD) | Apellidos, nombre, dirección de correo electrónico, número de teléfono, sexo, idioma | Activación y gestión de la cuenta de usuario | Hasta que el interesado solicite la supresión de los datos o hasta 5 años después del último inicio de sesión (prescripción según el Código Civil) |
+| Tratamiento de datos de facturación | Cumplimiento de la obligación legal del responsable del tratamiento (artículo 6, apartado 1, letra c) del RGPD) | Nombre, dirección | Facturación del valor de los bienes y servicios | Hasta el plazo establecido por la ley de Contabilidad, es decir, 8 años |
+| Envío de boletines de noticias | Consentimiento del interesado (artículo 6, apartado 1, letra a) del RGPD) | Nombre, dirección de correo electrónico | Envío de ofertas promocionales, información, anuncios (boletín de noticias) por medios electrónicos, proporcionando información sobre información actual, productos, promociones, novedades | Hasta que se retire el consentimiento del interesado.
+| Contacto del interesado | Consentimiento del interesado o acción realizada a petición del interesado (artículo 6, apartado 1, letras a) y b) del RGPD) | Datos facilitados por el interesado | Respuesta a una pregunta o envío de una oferta al interesado en respuesta a una solicitud por correo electrónico | Hasta 30 días después de que se haya formulado la pregunta, o 3 años en el caso de una pregunta de los consumidores. |
 
-## 6. Adattovábbítás
+Sin los datos obligatorios, el responsable del tratamiento no puede prestar el servicio que el interesado desea utilizar, por ejemplo, no puede crear y gestionar la cuenta de usuario o cumplir el pedido.
 
-Az adatkezelő adattovábbítást nem végez.
+### 1. Envío de boletines y ofertas promocionales
 
-Tájékoztatjuk az Érintetteket, hogy a bíróság vagy más hatóság, illetőleg jogszabály felhatalmazása alapján más szervek tájékoztatás adása, adatok közlése, átadása, illetőleg iratok rendelkezésre bocsátása végett megkereshetik az adatkezelőt.
+De conformidad con el artículo 6 de la Ley XLVIII de 2008 sobre las condiciones básicas y determinadas restricciones de las actividades económicas de publicidad, el interesado puede dar su consentimiento expreso por adelantado para que el responsable del tratamiento se ponga en contacto con él con ofertas publicitarias y otros envíos a la dirección de correo electrónico facilitada al registrarse o suscribirse a un boletín informativo y para que se traten sus datos con este fin.
 
-Az Adatkezelő a hatóságok részére személyes adatot csak a hatóság felhívásában foglaltaknak megfelelően ad ki.
+El responsable del tratamiento no enviará comunicaciones comerciales no solicitadas y el interesado podrá darse de baja de la recepción de ofertas y boletines informativos sin restricción y sin indicar el motivo, de forma gratuita. En este caso, el responsable del tratamiento no se pondrá en contacto con el interesado con otras ofertas promocionales. El interesado puede darse de baja de los anuncios haciendo clic en el enlace del mensaje o poniéndose en contacto con el responsable del tratamiento.
 
-## 7. Az www.creativapublicidad.es weboldal használatával és működésével kapcsolatos technikai jellegű adatkezelés
+## 4. Perfiles
 
-A Weboldal jelenleg nem használ sütiket. A következő sütik használata előkészületben:
+El responsable del tratamiento no realiza la elaboración de perfiles.
+
+## 5. Procesadores de datos
+
+El responsable del tratamiento podrá transferir los datos a los siguientes encargados del tratamiento con el fin de registrar las solicitudes de ofertas y pedidos, cumplir los contratos, gestionar el sitio web, enviar boletines informativos y cumplir los requisitos de la Ley de Contabilidad.
+
+Los encargados del tratamiento llevarán a cabo el tratamiento de acuerdo con las instrucciones del responsable del tratamiento, no tomarán ninguna decisión de fondo en relación con el tratamiento, tratarán los datos personales de los que tengan conocimiento sólo de acuerdo con las disposiciones del responsable del tratamiento, no tratarán los datos personales para sus propios fines, y almacenarán, conservarán y eliminarán los datos personales de acuerdo con las disposiciones del responsable del tratamiento. En el curso del tratamiento, los datos pueden ser conocidos por los empleados de los procesadores.
 
 {: .table .table-responsive }
-| Süti neve | Célja és a tárolt adatok köre | Mennyi ideig tárolja az adatot? |
-| -------------- | ------------------------------------------------------- | ----------------------------------------------- |
-| \_Fbp facebook | Felhasználó azonosítására szolgál facebooknak | Egy munkamenet – amíg be nem zárják a böngészőt |
-| Fr facebook | Felhasználó azonosítására szolgál faceboknak | 3 hónap |
-| \_ga | Felhasználó azonosításra szolgál a google analytics-nek | 2 év |
-| \_gid | Felhasználó azonosításra szolgál a google analytics-nek | 24 óra |
+| Nombre del procesador de datos | Dirección del procesador de datos | Actividad de procesamiento de datos | Feldolgozással érintett adatok |
+| ------------------------------ | --------------------------------- | ----------------------------------- | ------------------------------ |
+| PROMO SOLUTIONS LTD | EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37 | Pago en línea | Nombre del cliente, importe del pago, fecha, hora |
 
-**Google AdWords remarketing:** A weboldalon tett látogatások során egy vagy több sütit küld a weboldal a látogató számítógépére, amely(ek) révén annak böngészője egyedileg azonosítható lesz. Ezen sütik a Google által biztosítottak, felhasználásuk a Google Adwords rendszerén keresztül történik. Ezeket a sütiket csak egyes aloldalak látogatása esetén küldi el a weboldal a látogató számítógépére, tehát ezekben csak az adott aloldal meglátogatásának tényét és idejét tároljuk, semmilyen más információt nem. A Google, ezen sütik segítségével tárolja, ha az érintett korábban már látogatást tett a hirdető webhelyén, és ez alapján hirdetéseket jelenítenek meg a felhasználónak külső szolgáltatók - közöttük a Google - partnereinek internetes webhelyein. A felhasználók a Google hirdetések kikapcsolására szolgáló oldalon tilthatják le a Google cookie-jait. (Azt is jelezheti a felhasználók számára, hogy a Network Advertising Initiative leiratkozási oldalán a külső szolgáltatók sütijeit is letilthatják): [www.google.com/ads/preferences/](https://www.google.com/ads/preferences/){:target="\_blank"}
+## 6. Transmisión de datos
 
-## 8. Érintettek jogai, jogorvoslati lehetőségek
+El responsable del tratamiento no transfiere los datos.
 
-**Hozzáférés joga:** az Érintett jogosult arra, hogy az Adatkezelőtől tájékoztatást kérjen arról, hogy személyes adatai kezelése az Adatkezelőnél folyamatban van-e. Az érintett jogosult az Adatkezelő által kezelt személyes adataihoz hozzáférni.
+Informamos a los interesados de que el tribunal u otras autoridades u otros organismos autorizados por la ley pueden solicitar al responsable del tratamiento que facilite información, datos o documentos.
 
-Az Érintett jogosult továbbá hozzáférni azokhoz az információkhoz is, melyeket jelen tájékoztató tartalmaz.
+El responsable del tratamiento revelará los datos personales a las autoridades públicas sólo de acuerdo con la solicitud de la autoridad pública.
 
-**Helyesbítéshez való jog:** az Érintett jogosult arra, hogy az Adatkezelő indokolatlan késedelem nélkül helyesbítse a rá vonatkozó pontatlan személyes adatokat, vagy a hiányos személyes adatok kiegészítését kérje.
+## 7. Tratamiento de datos de carácter técnico relacionados con el uso y funcionamiento del sitio web www.creativapublicidad.es
 
-**Törléshez ("elfeledtetéshez") való jog:** az Érintett jogosult arra, hogy kérésére az adatkezelő indokolatlan késedelem nélkül törölje a rá vonatkozó személyes adatokat. Törlési kérelem esetén az Adatkezelő megvizsgálja, hogy az adatkezelésnek mi a pontos jogalapja (van-e a hozzájáruláson kívül más jogalapja), és ha a törlés feltételei fennállnak, törli az adatokat. Törlés esetében az Adatkezelő gondoskodik arról, hogy mindazok töröljék az adatokat, akikhez az adat az Adatkezelőn keresztül eljutott.
+El sitio web no utiliza actualmente cookies. Las siguientes galletas están en preparación:
 
-**Korlátozáshoz való jog:** az Érintett jogosult arra, hogy az adatkezelés korlátozását kérje, ha vitatja az adatkezelés pontosságát, jogellenes adatkezelés esetén az adatok törlését ellenzi; az adatkezelőnek már nincs szüksége az adatra de az érintett igényli azokat jogérvényesítés céljából, vagy az érintett a tiltakozási jogával élt az adatkezelés ellen. A korlátozás feloldásáról az Adatkezelő az Érintettet előzetesen tájékoztatja. Az Adatkezelő tájékoztatja valamennyi címzettet a korlátozásról, akivel a személyes adatot közölték.
+{: .table .table-responsive }
+| Nombre de la cookie | Finalidad y alcance de los datos almacenados | ¿Cuánto tiempo se almacenarán los datos? |
+| ------------------- | -------------------------------------------- | ---------------------------------------- |
+| \_Fbp facebook | Se utiliza para identificar al usuario ante facebook | Una sesión - hasta que se cierra el navegador |
+| Fr facebook | utiliza para identificar al usuario a facebok | 3 meses |
+| \_ga | Utilizado para la identificación de usuarios para google analytics | 2 años |
+| \_gid | Identificación del usuario para google analytics | 24 horas |
 
-**Adathordozhatósághoz való jog:** az Érintett jogosult arra, hogy a rá vonatkozó személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapja, ezeket másik adatkezelőnek továbbítsa (vagy továbbíttassa az adatkezlővel ha ez technikailag megvalósítható). Ez a jog abban az esetben illeti meg az Érintettet, ha az adatkezelés hozzájáruláson vagy szerződésen alapul és az adatkezelés automatizált módon történik.
+**Google AdWords remarketing:** durante las visitas al sitio web, el sitio web envía una o más cookies al ordenador del visitante, que identificarán de forma exclusiva el navegador o navegadores del visitante. Estas cookies son proporcionadas por Google y se utilizan a través del sistema de Google Adwords. Estas cookies sólo se envían al ordenador del visitante cuando se visitan determinadas subpáginas, es decir, sólo almacenan el hecho y la hora de la visita a la subpágina en cuestión y ninguna otra información. Google utilizará estas cookies para almacenar si el sujeto de los datos ha visitado previamente el sitio web del anunciante y, sobre esta base, mostrar anuncios al usuario en los sitios web de socios de proveedores de servicios externos, incluido Google. Los usuarios pueden inhabilitar las cookies de Google visitando la página de inhabilitación publicitaria de Google (también puede indicar a los usuarios que pueden inhabilitar las cookies de proveedores de servicios de terceros visitando la página de inhabilitación de la Iniciativa de Publicidad en Red): [www.google.com/ads/preferences/](https://www.google.com/ads/preferences/){:target="\_blank"}
 
-**Tiltakozáshoz való jog:** az Érintett jogosult arra, hogy saját helyzetével kapcsolatos okokból bármikor tiltakozzon az adatkezelés ellen, ha az közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítvány keretében végzett feladat végrehajtásához szükséges, vagy ha az adatkezelés jogalapja az Adatkezelő vagy harmadik fél jogos érdeke (ideértve a profilalkotást is).
+## 8. Derechos de los interesados, recursos
 
-Az Adatkezelő direkt marketing (reklámajánlatok, hírlevél küldése) és profilalkotási tevékenységével kapcsolatban az érintett bármikor tiltakozhat. Az Adatekezlő jelenleg nem végez profilozást.
+**Derecho de acceso:** el interesado tiene derecho a solicitar información al responsable del tratamiento sobre el tratamiento de sus datos personales. El interesado tiene derecho a acceder a sus datos personales tratados por el responsable del tratamiento.
 
-Az Adatkezelő a kérelem benyújtásától számított legrövidebb idő alatt (indokolatlan késedelem nélkül), legfeljebb azonban 30 napon belül az érintett erre irányuló kérelmére írásban megadja a kért tájékoztatást, illetve a hozzájárulás visszavonása esetén törli az adatokat. Az Adatkezelő helyesbítés, törlés esetén minden olyan címzettet tájékoztat, akivel az adatot közölték.
+El interesado también tiene derecho a acceder a la información contenida en este aviso.
 
-Ha az Adatkezelő az érintett kérésének nem tud eleget tenni, erről az Érintettet 30 napon belül tájékoztatja.
+**Derecho de rectificación:** el interesado tiene derecho a obtener del responsable del tratamiento, sin demora injustificada, la rectificación de los datos personales inexactos que le conciernen o a completar los datos personales incompletos.
 
-Az Adatkezelő tájékoztatja az érintetteket, hogy az adatok kezeléséhez történő hozzájárulás visszavonása nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét.
+**Derecho de supresión ("derecho al olvido")** el interesado tendrá derecho a obtener del responsable del tratamiento, a petición suya, la supresión de los datos personales que le conciernen sin demora injustificada. En caso de solicitud de supresión, el responsable del tratamiento examinará la base jurídica exacta del tratamiento (si existe una base jurídica distinta del consentimiento) y, si se cumplen las condiciones para la supresión, borrará los datos. En el caso de la supresión, el responsable del tratamiento se asegurará de que los datos sean suprimidos por todos aquellos a los que se hayan comunicado los datos a través del responsable del tratamiento.
 
-Az érintett adatkezeléshez kapcsolódó jogait az Adatkezelő 1. pontban meghatározott elérhetőségein gyakorolhatja.
+**Derecho a la limitación:** el interesado tendrá derecho a solicitar la limitación del tratamiento si impugna la exactitud del mismo, se opone a la supresión de los datos en caso de tratamiento ilícito, el responsable del tratamiento ya no necesita los datos pero el interesado los solicita a efectos de ejecución o el interesado ha ejercido su derecho a oponerse al tratamiento. El responsable del tratamiento informará al interesado con antelación del levantamiento de la restricción. El responsable del tratamiento informará de la restricción a todos los destinatarios a los que se hayan comunicado los datos personales.
 
-Az érintett jogorvoslati igénye esetén a Nemzeti Adatvédelmi és Információszabadság Hatósághoz (1125 Budapest, Szilágyi Erzsébet fasor 22/c., postacím: 1530 Budapest, Pf.: 5., www.naih.hu, telefon: +36 (1) 391-1400, fax: +36 (1) 391-1410, ugyfelszolgalat@naih.hu), vagy választása szerint az Adatkezelő székhelye, az érintett lakóhelye vagy tartózkodási helye szerint illetékes törvényszékhez fordulhat.
+**Derecho a la portabilidad de los datos:** el interesado tiene derecho a recibir los datos personales que le conciernen en un formato estructurado, de uso común y legible por máquina, para transmitirlos a otro responsable del tratamiento (o hacer que se transmitan al responsable del tratamiento si es técnicamente posible). El interesado tiene este derecho cuando el tratamiento se basa en el consentimiento o en un contrato y el tratamiento se lleva a cabo por medios automatizados.
 
-## 9. Az adatkezelés biztonsága
+**Derecho de oposición:** el interesado tiene derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, al tratamiento cuando sea necesario para el cumplimiento de una misión de interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento, o cuando el tratamiento se base en los intereses legítimos del responsable del tratamiento o de un tercero (incluida la elaboración de perfiles).
 
-Az Adatkezelő a személyes adatok kezeléséhez a szolgáltatás nyújtása során alkalmazott informatikai eszközöket úgy választja meg és üzemelteti, hogy a kezelt adat:
+El interesado puede oponerse en cualquier momento a las actividades de marketing directo (ofertas publicitarias, envío de boletines informativos) y elaboración de perfiles del responsable del tratamiento. El responsable del tratamiento de datos no realiza actualmente la elaboración de perfiles.
 
-- az arra feljogosítottak számára hozzáférhető (rendelkezésre állás);
-- hitelessége és hitelesítése biztosított (adatkezelés hitelessége);
-- változatlansága igazolható (adatintegritás);
-- a jogosulatlan hozzáférés ellen védett (adat bizalmassága) legyen.
+El responsable del tratamiento facilitará la información solicitada por escrito lo antes posible tras la presentación de la solicitud (sin demoras indebidas), pero a más tardar 30 días después de la solicitud del interesado, o eliminará los datos en caso de retirada del consentimiento. En caso de rectificación o supresión, el responsable del tratamiento informará a todos los destinatarios a los que se hayan comunicado los datos.
 
-Az Adatkezelő olyan műszaki, szervezési és szervezeti intézkedésekkel gondoskodik az adatkezelés biztonságának védelméről, amely az adatkezeléssel kapcsolatban jelentkező kockázatoknak megfelelő védelmi szintet nyújt.
+Si el responsable del tratamiento no puede atender la solicitud del interesado, le informará en un plazo de 30 días.
 
-Az Adatkezelő az adatkezelés során megőrzi
+El responsable del tratamiento informará al interesado de que la retirada del consentimiento para el tratamiento de los datos no afectará a la legalidad del tratamiento realizado sobre la base del consentimiento antes de su retirada.
 
-- a titkosságot: megvédi az információt, hogy csak az férhessen hozzá, aki erre jogosult;
-- a sértetlenséget: megvédi az információnak és a feldolgozás módszerének a pontosságát és teljességét;
-- a rendelkezésre állást: gondoskodik arról, hogy amikor a jogosult használónak szüksége van rá, valóban hozzá tudjon férni a kívánt információhoz, és rendelkezésre álljanak az ezzel kapcsolatos eszközök.
+El interesado podrá ejercer sus derechos en relación con el tratamiento en los datos de contacto del responsable del tratamiento especificados en el punto 1.
 
-Az Adatkezelő informatikai rendszere és hálózata egyaránt védett a számítógéppel támogatott csalás, kémkedés, szabotázs, vandalizmus, tűz és árvíz, továbbá a számítógépvírusok, a számítógépes betörések és a szolgálatmegtagadásra vezető támadások ellen. Az üzemeltető a biztonságról szerverszintű és alkalmazásszintű védelmi eljárásokkal gondoskodik.
+En caso de reclamación de reparación, el interesado podrá dirigirse a la Autoridad Nacional de Protección de Datos y Libertad de Información (1125 Budapest, Szilágyi Erzsébet fasor 22/c., dirección postal: 1530 Budapest, Pf.: 5., www.naih.hu, teléfono: +36 (1) 391-1400, fax: +36 (1) 391-1410, ugyfelszolgalat@naih.hu) o, a su elección, al tribunal competente del lugar del domicilio social, residencia o domicilio del responsable del tratamiento.
 
-Tájékoztatjuk az Érintetteket, hogy az interneten továbbított elektronikus üzenetek, protokolltól (e-mail, web, ftp, stb.) függetlenül sérülékenyek az olyan hálózati fenyegetésekkel szemben, amelyek tisztességtelen tevékenységre, szerződés vitatására, vagy az információ felfedésére, módosítására vezetnek. Az ilyen fenyegetésektől megvédendő az Adatkezelő megtesz minden tőle elvárható óvintézkedést. A rendszereket megfigyeli annak érdekében, hogy minden biztonsági eltérést rögzíthessen, és bizonyítékkal szolgálhasson minden biztonsági esemény esetében. A rendszer megfigyelés ezen kívül lehetővé teszi az alkalmazott óvintézkedések hatékonyságának ellenőrzését is.
+## 9. Seguridad del tratamiento
+
+El responsable del tratamiento seleccionará y manejará las herramientas informáticas utilizadas para el tratamiento de los datos personales en la prestación del servicio de forma que los datos tratados:
+
+- sea accesible a las personas autorizadas (disponibilidad);
+- su autenticidad y su autenticidad están garantizadas (autenticidad del tratamiento);
+- su integridad puede ser verificada (integridad de los datos);
+- está protegido contra el acceso no autorizado (confidencialidad de los datos).
+
+El responsable del tratamiento garantizará la seguridad del tratamiento mediante medidas técnicas, organizativas y de organización que proporcionen un nivel de protección adecuado a los riesgos asociados al tratamiento.
+
+Durante el tratamiento, el responsable del tratamiento mantendrá
+
+- confidencialidad: protegerá la información para que sólo tengan acceso a ella quienes tienen derecho a hacerlo;
+- integridad: proteger la exactitud e integridad de la información y el método de tratamiento;
+- disponibilidad: garantiza que cuando el usuario autorizado la necesite, tenga acceso efectivo a la información y a los medios para obtenerla.
+
+El sistema informático y la red del responsable del tratamiento están protegidos contra el fraude informático, el espionaje, el sabotaje, el vandalismo, los incendios y las inundaciones, los virus informáticos, las intrusiones informáticas y los ataques que conducen a la denegación de servicio. El operador garantiza la seguridad mediante procedimientos de protección a nivel de servidor y de aplicación.
+
+Se informa a los interesados de que los mensajes electrónicos transmitidos a través de Internet, independientemente del protocolo (correo electrónico, web, ftp, etc.), son vulnerables a las amenazas de la red que podrían dar lugar a actividades fraudulentas, disputas contractuales o divulgación o modificación de la información. El responsable del tratamiento tomará todas las precauciones razonables para protegerse de dichas amenazas. Supervisa los sistemas para registrar cualquier discrepancia de seguridad y aportar pruebas de cualquier incidente de seguridad. El seguimiento del sistema también permite comprobar la eficacia de las precauciones adoptadas.
