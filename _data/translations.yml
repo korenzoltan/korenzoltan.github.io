@@ -4,11 +4,13 @@ home:
     es: Fuera de casa
     en: Out of Home
     hu: Out of Home
+    sk: Out of Home
   subtitle:
     de: Grenzenlose Vielfalt - 4 Länder ab 2023!
     es: Variedad multicolor - ¡4 países a partir de 2023!
     en: Endless diversity - 4 countries from 2023!
     hu: Végtelen sokszínűség - 2023-tól már 4 országban!
+    sk: Nekonečná rozmanitosť - 4 krajiny od roku 2023!
 
 contact:
   title:
@@ -16,102 +18,122 @@ contact:
     es: Contacto
     en: Contact
     hu: Kapcsolat
+    sk: Kontakt
   description:
     de: Haben Sie eine Frage? Wenden Sie sich bitte an unsere Zentrale in Ungarn, die alle Ihre Fragen innerhalb von 1 Tag beantworten wird.
     es: ¿Tienes preguntas? Contacta nuestro centro en Hungría y en un sólo día tendrás tu respuesta.
     en: Any questions? Please contact our head office in Hungary and they will answer all your questions within 1 day.
     hu: Kérdésed van? Kérlek, vedd fel a kapcsolatot a Magyarországi központunkkal, akik 1 napon belül válaszolnak minden kérdésedre.
+    sk: Máte otázky? Obráťte sa na našu maďarskú centrálu, ktorá vám ich všetky zodpovie do 1 dňa.
   name:
     de: Name
     es: Nombre
     en: Name
     hu: Név
+    sk: Meno
   email_address:
     de: E-Mail-Adresse
     es: Correo electrónico
     en: Email address
     hu: E-mail cím
+    sk: E-mailová adresa
   message:
     de: Nachricht
     es: Mensaje
     en: Message
     hu: Üzenet
+    sk: Správa
   submit:
     de: Senden
     es: Enviar
     en: Send
     hu: Küldés
+    sk:
   incorrect:
     de: Please fill out this field!
     es: Por favor rellene este campo!
     en: Please fill out this field!
     hu: Kérlek, töltsd ki a mezőt!
+    sk: Please fill out this field!
   incorrect_email:
     de: Please enter a valid email address!
     es: Por favor introduzca una dirección de correo electrónico válida!
     en: Please enter a valid email address!
     hu: Érvénytelen e-mail cím formátum!
+    sk: Please enter a valid email address!
   success:
     de: Message sent successfully! We will contact you soon!
     es: ¡Mensaje enviado con éxito! ¡Nos pondremos en contacto con usted pronto!
     en: Message sent successfully! We will contact you soon!
     hu: Üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot!
+    sk: Message sent successfully! We will contact you soon!
   error:
     de: Message not sent. There was a problem with the server. We apologize and please be patient!
     es: Mensaje no enviado Hubo un problema con el servidor. Pedimos disculpas y por favor sea paciente!
     en: Message not sent. There was a problem with the server. We apologize and please be patient!
     hu: Üzenet nem lett elküldve. Valami hiba folytán probléma adódott a szerverrel. Elnézést és szíves türelmét kérjük!
+    sk: Message not sent. There was a problem with the server. We apologize and please be patient!
   company:
     de: Promo Solutions Kft.
     es: Promo Solutions Kft.
     en: Promo Solutions Kft.
     hu: Promo Solutions Kft.
+    sk: Promo Solutions Kft.
   company_registration_number:
     de: 01-09-305926
     es: 01-09-305926
     en: 01-09-305926
     hu: 01-09-305926
+    sk: 01-09-305926
   eu_tax_number:
     de: HU26174073
     es: HU26174073
     en: HU26174073
     hu: HU26174073
+    sk: HU26174073
   google_map_url:
     de: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
     es: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
     en: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
     hu: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
+    sk: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
   address:
     de: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Ungarn
     es: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Hungría
     en: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Hungary
     hu: 1091 Budapest, Üllői út 169-179. F. Iház. 9.em./37., Magyarország
+    sk: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Mad'arsko
   phone_number:
     de: '+36207764647'
     es: '+36207764647'
     en: '+36207764647'
     hu: '+36207764647'
+    sk: '+36207764647'
   phone_text:
     de: +36-20/776-4647
     es: +36-20/776-4647
     en: +36-20/776-4647
     hu: +36-20/776-4647
+    sk: +36-20/776-4647
   email:
     recipient_name:
       de: communication
       es: communication
       en: communication
       hu: zoltankoren
+      sk: communication
     domain:
       de: creativapublicidad
       es: creativapublicidad
       en: creativapublicidad
       hu: promogroup
+      sk: creativapublicidad
     top_level_domain:
       de: es
       es: es
       en: es
       hu: hu
+      sk: es
   bank_iban: HU49 1620 0223 1007 1775 0000 0000
 
 moving_billboard:
@@ -119,36 +141,42 @@ moving_billboard:
   es: Cartelera móvil
   en: Moving billboard
   hu: Mozgó óriásplakát
+  sk: Mobilný billboard
 
 four_wheel_ad:
   de: Werbung auf Vierrädern
   es: Anuncio de cuatro ruedas
   en: Four-wheel ad
   hu: Négykerekű hirdetés
+  sk: Reklama na štyroch kolesách
 
 out_of_home_ad:
   de: Out of Home Werbung
   es: Publicidad fuera de casa
   en: Out of Home ad
   hu: Out of Home reklám
+  sk: Out of Home reklama
 
 references:
   de: Referenzen
   es: Referencias
   en: References
   hu: Referenciák
+  sk: Referencie
 
 legal_notice:
   de: Impressum und Copyright
   es: Aviso legal
   en: Legal notice
   hu: Jogi nyilatkozat
+  sk: Právne vyhlásenie
 
 privacy_policy:
   de: Datenschutzinformation
   es: Información sobre el tratamiento de datos
   en: Privacy policy
   hu: Adatkezelési tájékoztató
+  sk: Ochrana osobných údajov
 
 menu:
   - title:
@@ -156,6 +184,7 @@ menu:
       es: PromoVan
       en: PromoVan
       hu: PromoVan
+      sk: PromoVan
     slug: promovan
     submenu:
       - title:
@@ -163,6 +192,7 @@ menu:
           es: Carteleras en movimiento
           en: Moving billboard
           hu: Mozgó óriásplakát
+          sk: Mobilný billboard
         url: moving-billboard
 
   - title:
@@ -170,6 +200,7 @@ menu:
       es: PromoBike
       en: PromoBike
       hu: PromoBike
+      sk: PromoBike
     slug: promobike
     submenu:
       - title:
@@ -177,6 +208,7 @@ menu:
           es: Publicidad con cuatro ruedas
           en: Four-wheel ad
           hu: Négykerekű hirdetések
+          sk: Reklama na štyroch kolesách
         url: four-wheel-ad
 
   - title:
@@ -184,6 +216,7 @@ menu:
       es: Sobre nosotros
       en: About us
       hu: Rólunk
+      sk: O nás
     slug: about
     submenu:
       - title:
@@ -191,6 +224,7 @@ menu:
           es: Publicidad OOH
           en: Out of Home ad
           hu: Out of Home reklám
+          sk: Out of Home reklama
         url: out-of-home-ad
 
   - title:
@@ -198,6 +232,7 @@ menu:
       es: Contacto
       en: Contact
       hu: Kapcsolat
+      sk: Kontakt
     slug: contact
     submenu:
       - title:
@@ -205,6 +240,7 @@ menu:
           es: Referencias
           en: References
           hu: Referenciák
+          sk: Referencie
         url: references
 
 footer:
@@ -213,8 +249,10 @@ footer:
     es: Fuera de casa. Variedad multicolor.
     en: Out of Home media. Endless diversity.
     hu: Out of Home média. Végtelen sokszínűség.
+    sk: Out of Home médiá. Nekonečná rozmanitosť.
   copyright:
     de: Alle Rechte vorbehalten.
     es: Todos los derechos reservados.
     en: All rights reserved.
     hu: Minden jog fenntartva.
+    sk: Všetky práva vyhradené.

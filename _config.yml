@@ -44,13 +44,14 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-languages: ['es', 'de', 'en', 'hu']
+languages: ['es', 'de', 'en', 'hu', 'sk']
 language_default: 'es'
 languageNames:
   es: Spanish
   de: Deutsch
   en: English
   hu: Magyar
+  sk: Slovenská
 
 sass:
   style: compressed
