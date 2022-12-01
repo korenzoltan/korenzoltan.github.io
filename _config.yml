@@ -44,10 +44,11 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-languages: ['es', 'en', 'hu']
+languages: ['es', 'de', 'en', 'hu']
 language_default: 'es'
 languageNames:
   es: Spanish
+  de: Deutsch
   en: English
   hu: Magyar
 

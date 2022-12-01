@@ -1,171 +1,207 @@
 home:
   title:
+    de: Außenwerbung
     es: Fuera de casa
     en: Out of Home
     hu: Out of Home
   subtitle:
-    es: Variedad multicolor
+    de: Grenzenlose Vielfalt - 4 Länder ab 2023!
+    es: Variedad multicolor - ¡4 países a partir de 2023!
     en: Endless diversity - 4 countries from 2023!
     hu: Végtelen sokszínűség - 2023-tól már 4 országban!
 
 contact:
   title:
+    de: Kontakt
     es: Contacto
     en: Contact
     hu: Kapcsolat
   description:
+    de: Haben Sie eine Frage? Wenden Sie sich bitte an unsere Zentrale in Ungarn, die alle Ihre Fragen innerhalb von 1 Tag beantworten wird.
     es: ¿Tienes preguntas? Contacta nuestro centro en Hungría y en un sólo día tendrás tu respuesta.
     en: Any questions? Please contact our head office in Hungary and they will answer all your questions within 1 day.
     hu: Kérdésed van? Kérlek, vedd fel a kapcsolatot a Magyarországi központunkkal, akik 1 napon belül válaszolnak minden kérdésedre.
   name:
+    de: Name
     es: Nombre
     en: Name
     hu: Név
   email_address:
+    de: E-Mail-Adresse
     es: Correo electrónico
     en: Email address
     hu: E-mail cím
   message:
+    de: Nachricht
     es: Mensaje
     en: Message
     hu: Üzenet
   submit:
+    de: Senden
     es: Enviar
     en: Send
     hu: Küldés
   incorrect:
+    de: Please fill out this field!
     es: Por favor rellene este campo!
     en: Please fill out this field!
     hu: Kérlek, töltsd ki a mezőt!
   incorrect_email:
+    de: Please enter a valid email address!
     es: Por favor introduzca una dirección de correo electrónico válida!
     en: Please enter a valid email address!
     hu: Érvénytelen e-mail cím formátum!
   success:
+    de: Message sent successfully! We will contact you soon!
     es: ¡Mensaje enviado con éxito! ¡Nos pondremos en contacto con usted pronto!
     en: Message sent successfully! We will contact you soon!
     hu: Üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot!
   error:
+    de: Message not sent. There was a problem with the server. We apologize and please be patient!
     es: Mensaje no enviado Hubo un problema con el servidor. Pedimos disculpas y por favor sea paciente!
     en: Message not sent. There was a problem with the server. We apologize and please be patient!
     hu: Üzenet nem lett elküldve. Valami hiba folytán probléma adódott a szerverrel. Elnézést és szíves türelmét kérjük!
   company:
+    de: Promo Solutions Kft.
     es: Promo Solutions Kft.
     en: Promo Solutions Kft.
     hu: Promo Solutions Kft.
   company_registration_number:
+    de: 01-09-305926
     es: 01-09-305926
     en: 01-09-305926
     hu: 01-09-305926
   eu_tax_number:
+    de: HU26174073
     es: HU26174073
     en: HU26174073
     hu: HU26174073
   google_map_url:
+    de: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
     es: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
     en: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
     hu: https://www.google.com/maps/place/Budapest,+%C3%9Cll%C5%91i+%C3%BAt+169,+1091/@47.4681396,19.1141902,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dcd565847933:0x3802ac64846d89a0!8m2!3d47.468136!4d19.1163789
   address:
-    es: Üllői út 169., 1091 Budapest, Hungría
-    en: Szentmihályi út 167-169., 1154 Budapest, Hungary
-    hu: 1152 Budapest, Szentmihályi út 167-169., Magyarország
+    de: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Ungarn
+    es: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Hungría
+    en: Üllői út 169-179. F. Iház. 9.em./37., 1091 Budapest, Hungary
+    hu: 1091 Budapest, Üllői út 169-179. F. Iház. 9.em./37., Magyarország
   phone_number:
+    de: '+36207764647'
     es: '+36207764647'
     en: '+36207764647'
     hu: '+36207764647'
   phone_text:
+    de: +36-20/776-4647
     es: +36-20/776-4647
     en: +36-20/776-4647
     hu: +36-20/776-4647
   email:
     recipient_name:
+      de: communication
       es: communication
       en: communication
       hu: zoltankoren
     domain:
+      de: creativapublicidad
       es: creativapublicidad
       en: creativapublicidad
       hu: promogroup
     top_level_domain:
+      de: es
       es: es
       en: es
       hu: hu
   bank_iban: HU49 1620 0223 1007 1775 0000 0000
 
 moving_billboard:
+  de: Bewegliche Plakatwand
   es: Cartelera móvil
   en: Moving billboard
   hu: Mozgó óriásplakát
 
 four_wheel_ad:
+  de: Werbung auf Vierrädern
   es: Anuncio de cuatro ruedas
   en: Four-wheel ad
   hu: Négykerekű hirdetés
 
 out_of_home_ad:
+  de: Out of Home Werbung
   es: Publicidad fuera de casa
   en: Out of Home ad
   hu: Out of Home reklám
 
 references:
+  de: Referenzen
   es: Referencias
   en: References
   hu: Referenciák
 
 legal_notice:
+  de: Impressum und Copyright
   es: Aviso legal
   en: Legal notice
   hu: Jogi nyilatkozat
 
 privacy_policy:
+  de: Datenschutzinformation
   es: Información sobre el tratamiento de datos
   en: Privacy policy
   hu: Adatkezelési tájékoztató
 
 menu:
   - title:
+      de: PromoVan
       es: PromoVan
       en: PromoVan
       hu: PromoVan
     slug: promovan
     submenu:
       - title:
+          de: Bewegliche Plakatwand
           es: Carteleras en movimiento
           en: Moving billboard
           hu: Mozgó óriásplakát
         url: moving-billboard
 
   - title:
+      de: PromoBike
       es: PromoBike
       en: PromoBike
       hu: PromoBike
     slug: promobike
     submenu:
       - title:
+          de: Werbung auf Vierrädern
           es: Publicidad con cuatro ruedas
           en: Four-wheel ad
           hu: Négykerekű hirdetések
         url: four-wheel-ad
 
   - title:
+      de: Über uns
       es: Sobre nosotros
       en: About us
       hu: Rólunk
     slug: about
     submenu:
       - title:
+          de: Out of Home Werbung
           es: Publicidad OOH
           en: Out of Home ad
           hu: Out of Home reklám
         url: out-of-home-ad
 
   - title:
+      de: Kontakt
       es: Contacto
       en: Contact
       hu: Kapcsolat
     slug: contact
     submenu:
       - title:
+          de: Referenzen
           es: Referencias
           en: References
           hu: Referenciák
@@ -173,10 +209,12 @@ menu:
 
 footer:
   description:
+    de: Außenwerbung. Grenzenlose Vielfalt.
     es: Fuera de casa. Variedad multicolor.
     en: Out of Home media. Endless diversity.
     hu: Out of Home média. Végtelen sokszínűség.
   copyright:
+    de: Alle Rechte vorbehalten.
     es: Todos los derechos reservados.
     en: All rights reserved.
     hu: Minden jog fenntartva.

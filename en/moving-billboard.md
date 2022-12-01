@@ -23,6 +23,6 @@ Additional options
 - rear panel and wind deflector branding
 - PA system and lighting
 
-The advertising space is the same size as a standard billboard (5,04 x 2,38m).
+The advertising space is the same size as a standard billboard (5,04 x 2,38 m).
 
 {% include main-image.html src="promovan/moving-billboard/khxyq.jpg" %}
