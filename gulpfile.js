@@ -234,6 +234,7 @@ gulp.task('watch', function (done) {
       '_data/**/*.*',
       '_includes/**/*.*',
       '_layouts/**/*.*',
+      'de/**/*.*',
       'en/**/*.*',
       'es/**/*.*',
       'hu/**/*.*',
