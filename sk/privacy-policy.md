@@ -69,8 +69,8 @@ Táto politika je platná do augusta 2020. januára 2020 až do ďalšieho ozná
 Osobná pôsobnosť tejto politiky zahŕňa:
 
 - prevádzkovateľ údajov a
-  - osoby, ktorých údaje sú zahrnuté do spracovateľských operácií, na ktoré sa vzťahujú tieto zásady, a
-- osoby, ktorých údaje sú zahrnuté do spracovateľských operácií, na ktoré sa vzťahujú tieto zásady
+  - osoby, ktorých údaje sú zahrnuté do spracovania, na ktoré sa vzťahujú tieto zásady, a
+- osoby, ktorých práva alebo oprávnené záujmy sú spracovaním dotknuté
   Prevádzkovateľ preto spracúva predovšetkým údaje fyzických osôb, ktoré sú
 - akýmkoľvek spôsobom alebo akýmikoľvek dostupnými prostriedkami, napríklad elektronicky, zaslaním svojich údajov na akúkoľvek e-mailovú adresu správcu, prostredníctvom sociálnej siete, telefonicky alebo osobne
   - kontaktovaním správcu údajov,

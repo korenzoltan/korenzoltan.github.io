@@ -69,8 +69,8 @@ Esta política está vigente hasta agosto de 2020. 1 de enero de 2020 hasta nuev
 El ámbito de aplicación personal de esta Política incluirá:
 
 - el responsable del tratamiento, y
-  - las personas cuyos datos están incluidos en las operaciones de tratamiento cubiertas por esta Política; y
-- las personas cuyos datos están incluidos en las operaciones de tratamiento cubiertas por esta Política
+  - las personas cuyos datos se incluyen en el tratamiento contemplado en esta Política, y
+- personas cuyos derechos o intereses legítimos se ven afectados por el tratamiento
   Por lo tanto, el responsable del tratamiento trata principalmente los datos de las personas físicas que
 - a través de cualquier medio o por cualquier medio disponible para ellos, como por ejemplo por medios electrónicos, enviando sus datos a cualquier dirección de correo electrónico del Responsable del Tratamiento, a través de una red social, por teléfono o en persona
   - poniéndose en contacto con el responsable del tratamiento,
@@ -121,8 +121,8 @@ El responsable del tratamiento podrá transferir los datos a los siguientes enca
 Los encargados del tratamiento llevarán a cabo el tratamiento de acuerdo con las instrucciones del responsable del tratamiento, no tomarán ninguna decisión de fondo en relación con el tratamiento, tratarán los datos personales de los que tengan conocimiento sólo de acuerdo con las disposiciones del responsable del tratamiento, no tratarán los datos personales para sus propios fines, y almacenarán, conservarán y eliminarán los datos personales de acuerdo con las disposiciones del responsable del tratamiento. En el curso del tratamiento, los datos pueden ser conocidos por los empleados de los procesadores.
 
 {: .table .table-responsive }
-| Nombre del procesador de datos | Dirección del procesador de datos | Actividad de procesamiento de datos | Feldolgozással érintett adatok |
-| ------------------------------ | --------------------------------- | ----------------------------------- | ------------------------------ |
+| Nombre del procesador de datos | Dirección del procesador de datos | Actividad de procesamiento de datos | Datos objeto de tratamiento |
+| ------------------------------ | --------------------------------- | ----------------------------------- | --------------------------- |
 | PROMO SOLUTIONS LTD | EUROPE, HUNGARY, BUDAPEST, 1091 ÜLLŐI ÚT 169-179 F 9/37 | Pago en línea | Nombre del cliente, importe del pago, fecha, hora |
 
 ## 6. Transmisión de datos

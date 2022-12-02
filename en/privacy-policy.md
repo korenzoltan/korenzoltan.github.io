@@ -69,8 +69,8 @@ This Policy is effective until August 2020. 1 July 2020 until further notice or 
 The personal scope of this Policy shall include:
 
 - the Data Controller, and
-  - the persons whose data are included in the processing operations covered by this Policy; and
-- the persons whose data are included in the processing operations covered by this Policy
+  - persons whose data are included in the processing covered by this Policy, and
+- persons whose rights or legitimate interests are affected by the processing
   The Data Controller therefore primarily processes the data of natural persons who are
 - through any means or means available to them, such as by electronic means, by sending their data to any e-mail address of the Controller, through a social networking site, by telephone or in person
   - by contacting the Data Controller,

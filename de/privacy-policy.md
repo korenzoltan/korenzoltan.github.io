@@ -69,8 +69,8 @@ Diese Politik ist bis August 2020 gültig. 1. Januar 2020 bis auf weiteres oder 
 Der persönliche Geltungsbereich dieser Politik umfasst:
 
 - der für die Verarbeitung Verantwortliche, und
-  - die Personen, deren Daten in die unter diese Richtlinie fallenden Verarbeitungen einbezogen sind; und
-- die Personen, deren Daten in die unter diese Richtlinie fallenden Verarbeitungen einbezogen sind
+  - Personen, deren Daten in die unter diese Richtlinie fallende Verarbeitung einbezogen sind, und
+- Personen, deren Rechte oder berechtigte Interessen durch die Verarbeitung beeinträchtigt werden
   Der für die Verarbeitung Verantwortliche verarbeitet daher in erster Linie die Daten von natürlichen Personen, die
 - auf jede Art und Weise, die ihnen zur Verfügung steht, wie z. B. auf elektronischem Wege, indem sie ihre Daten an eine beliebige E-Mail-Adresse des für die Verarbeitung Verantwortlichen senden, über ein soziales Netzwerk, per Telefon oder persönlich
   - durch Kontaktaufnahme mit dem für die Verarbeitung Verantwortlichen,

@@ -44,35 +44,35 @@ contact:
     hu: Üzenet
     sk: Správa
   submit:
-    de: Senden
+    de: Senden an
     es: Enviar
     en: Send
     hu: Küldés
-    sk:
+    sk: Odoslať na adresu
   incorrect:
-    de: Please fill out this field!
+    de: Bitte füllen Sie das Feld aus!
     es: Por favor rellene este campo!
     en: Please fill out this field!
     hu: Kérlek, töltsd ki a mezőt!
-    sk: Please fill out this field!
+    sk: Vyplňte pole!
   incorrect_email:
-    de: Please enter a valid email address!
+    de: Ungültiges E-Mail-Adressformat!
     es: Por favor introduzca una dirección de correo electrónico válida!
     en: Please enter a valid email address!
     hu: Érvénytelen e-mail cím formátum!
-    sk: Please enter a valid email address!
+    sk: Nesprávny formát e-mailovej adresy!
   success:
-    de: Message sent successfully! We will contact you soon!
+    de: Ungültige E-Mail erfolgreich gesendet! Wir werden Sie bald kontaktieren!
     es: ¡Mensaje enviado con éxito! ¡Nos pondremos en contacto con usted pronto!
     en: Message sent successfully! We will contact you soon!
     hu: Üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot!
-    sk: Message sent successfully! We will contact you soon!
+    sk: Neplatný e-mail bol úspešne odoslaný! Čoskoro vás budeme kontaktovať!-formát e-mailovej adresy!
   error:
-    de: Message not sent. There was a problem with the server. We apologize and please be patient!
+    de: Es wurde keine Nachricht gesendet. Es gab ein Problem mit dem Server. Wir entschuldigen uns und bitten um Ihre Geduld!
     es: Mensaje no enviado Hubo un problema con el servidor. Pedimos disculpas y por favor sea paciente!
     en: Message not sent. There was a problem with the server. We apologize and please be patient!
     hu: Üzenet nem lett elküldve. Valami hiba folytán probléma adódott a szerverrel. Elnézést és szíves türelmét kérjük!
-    sk: Message not sent. There was a problem with the server. We apologize and please be patient!
+    sk: Nebola odoslaná žiadna správa. Vyskytol sa problém so serverom. Ospravedlňujeme sa a prosíme vás o trpezlivosť!
   company:
     de: Promo Solutions Kft.
     es: Promo Solutions Kft.
