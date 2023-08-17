@@ -46,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-google-tag-manager
 
 languages: ['es', 'de', 'en', 'hu', 'sk']
 language_default: 'es'
@@ -58,6 +59,10 @@ languageNames:
 
 sass:
   style: compressed
+
+google:
+  tag_manager:
+    container_id: GTM-TCB89WNR
 
 formspark_contact_form_action_url: https://submit-form.com/XO_0bqgeKLGtoPhyfu3tw
 
