@@ -1,27 +1,27 @@
 // External
-@import 'external/soho';
+@use 'external/soho';
 
 // Base
-@import 'base/colors';
-@import 'base/fonts';
-@import 'base/buttons';
-@import 'base/keyframes';
-@import 'base/global';
+@use 'base/colors';
+@use 'base/fonts';
+@use 'base/buttons';
+@use 'base/keyframes';
+@use 'base/global';
 
 // Layouts
-@import 'layouts/page';
+@use 'layouts/page';
 
 // Includes
-@import 'includes/404';
-@import 'includes/body';
-@import 'includes/contact';
-@import 'includes/footer';
-@import 'includes/header';
-@import 'includes/home';
-@import 'includes/main-image';
-@import 'includes/navbar';
-@import 'includes/our-clients';
-@import 'includes/page';
-@import 'includes/reference-gallery';
-@import 'includes/tools';
-@import 'includes/video';
+@use 'includes/404' as page404;
+@use 'includes/body';
+@use 'includes/contact';
+@use 'includes/footer';
+@use 'includes/header';
+@use 'includes/home';
+@use 'includes/main-image';
+@use 'includes/navbar';
+@use 'includes/our-clients';
+@use 'includes/page' as page2;
+@use 'includes/reference-gallery';
+@use 'includes/tools';
+@use 'includes/video';
