@@ -46,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-google-tag-manager
 
 languages: ['es', 'de', 'en', 'hu', 'sk']
