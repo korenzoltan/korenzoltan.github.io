@@ -1,3 +1,6 @@
+@use 'colors' as colors;
+@use 'fonts' as fonts;
+
 a,
 button,
 input,
@@ -23,7 +26,7 @@ a {
   &:active,
   &:focus,
   &:hover {
-    color: $persian-green;
+    color: colors.$persian-green;
     text-decoration: underline !important;
   }
 }
@@ -33,16 +36,16 @@ blockquote {
   margin: 30px 0 30px auto;
   max-width: 600px;
   width: 100%;
-  color: $emperor;
-  background-color: $gallery;
-  border-left: 8px solid $persian-green;
+  color: colors.$emperor;
+  background-color: colors.$gallery;
+  border-left: 8px solid colors.$persian-green;
   font-style: italic;
 
   &::before {
     content: '\201C';
     position: absolute;
     left: 10px;
-    color: $persian-green;
+    color: colors.$persian-green;
   }
 
   p {
@@ -51,7 +54,7 @@ blockquote {
 
   p:last-child {
     font-family: Soho Bold;
-    color: $mine-shaft;
+    color: colors.$mine-shaft;
   }
 }
 
@@ -72,7 +75,7 @@ blockquote {
 
 .alert {
   border-radius: 0;
-  font-size: $font-size-extra-small;
+  font-size: fonts.$font-size-extra-small;
 }
 
 .dropdown-menu.show {
@@ -112,7 +115,7 @@ blockquote {
 
 .carousel-item-left.active,
 .carousel-item-prev:not(.carousel-item-right) {
-  transform: translateX(-100%)
+  transform: translateX(-100%);
 }
 
 .carousel-control-prev {
@@ -169,52 +172,52 @@ blockquote {
     }
 
     p:last-child {
-      font-size: $font-size-extra-large;
+      font-size: fonts.$font-size-extra-large;
     }
   }
 }
 
 @media screen and (min-width: 768px) {
   h1 {
-    font-size: $font-size-mega-large;
+    font-size: fonts.$font-size-mega-large;
   }
 
   h2 {
-    font-size: $font-size-extreme-large;
+    font-size: fonts.$font-size-extreme-large;
   }
 
   h3 {
-    font-size: $font-size-extra-large;
+    font-size: fonts.$font-size-extra-large;
   }
 
   h4 {
-    font-size: $font-size-large;
+    font-size: fonts.$font-size-large;
   }
 
   h5 {
-    font-size: $font-size-medium;
+    font-size: fonts.$font-size-medium;
   }
 }
 
 @media screen and (max-width: 767px) {
   h1 {
-    font-size: $font-size-extra-large;
+    font-size: fonts.$font-size-extra-large;
   }
 
   h2 {
-    font-size: $font-size-large;
+    font-size: fonts.$font-size-large;
   }
 
   h3 {
-    font-size: $font-size-medium;
+    font-size: fonts.$font-size-medium;
   }
 
   h4 {
-    font-size: $font-size-medium;
+    font-size: fonts.$font-size-medium;
   }
 
   h5 {
-    font-size: $font-size-medium;
+    font-size: fonts.$font-size-medium;
   }
 
   blockquote {
@@ -222,11 +225,11 @@ blockquote {
 
     &::before {
       top: 10px;
-      font-size: $font-size-mega-large;
+      font-size: fonts.$font-size-mega-large;
     }
 
     p:last-child {
-      font-size: $font-size-large;
+      font-size: fonts.$font-size-large;
     }
   }
 }
@@ -237,20 +240,30 @@ blockquote {
   }
 
   /* show 3 items */
-  .carousel-inner .active+.carousel-item,
-  .carousel-inner .active+.carousel-item+.carousel-item,
-  .carousel-inner .active+.carousel-item+.carousel-item+.carousel-item {
+  .carousel-inner .active + .carousel-item,
+  .carousel-inner .active + .carousel-item + .carousel-item,
+  .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
     display: block;
   }
 
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item,
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item+.carousel-item {
+  .carousel-inner
+    .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+  .carousel-inner
+    .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)
+    + .carousel-item,
+  .carousel-inner
+    .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)
+    + .carousel-item
+    + .carousel-item {
     transition: none;
   }
 
   /* Show 4th slide on md if col-md-4 */
-  .carousel-inner .active.col-md-4.carousel-item+.carousel-item+.carousel-item+.carousel-item {
+  .carousel-inner
+    .active.col-md-4.carousel-item
+    + .carousel-item
+    + .carousel-item
+    + .carousel-item {
     position: absolute;
     top: 0;
     right: -33.3333%;
@@ -264,18 +277,24 @@ blockquote {
   }
 
   /* left or forward direction */
-  .carousel-item-next.carousel-item-left+.carousel-item,
-  .carousel-item-next.carousel-item-left+.carousel-item+.carousel-item,
-  .carousel-item-next.carousel-item-left+.carousel-item+.carousel-item+.carousel-item {
+  .carousel-item-next.carousel-item-left + .carousel-item,
+  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,
+  .carousel-item-next.carousel-item-left
+    + .carousel-item
+    + .carousel-item
+    + .carousel-item {
     position: relative;
     transform: translate3d(-100%, 0, 0);
     visibility: visible;
   }
 
   /* right or prev direction //t - previous slide direction last item animation fix */
-  .carousel-item-prev.carousel-item-right+.carousel-item,
-  .carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item,
-  .carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item+.carousel-item {
+  .carousel-item-prev.carousel-item-right + .carousel-item,
+  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,
+  .carousel-item-prev.carousel-item-right
+    + .carousel-item
+    + .carousel-item
+    + .carousel-item {
     position: relative;
     transform: translate3d(100%, 0, 0);
     visibility: visible;
@@ -284,18 +303,18 @@ blockquote {
   }
 
   /* left or forward direction */
-  .active.carousel-item-left+.carousel-item-next.carousel-item-left,
-  .carousel-item-next.carousel-item-left+.carousel-item,
-  .carousel-item-next.carousel-item-left+.carousel-item+.carousel-item {
+  .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+  .carousel-item-next.carousel-item-left + .carousel-item,
+  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item {
     position: relative;
     transform: translate3d(-100%, 0, 0);
     visibility: visible;
   }
 
   /* right or prev direction */
-  .active.carousel-item-right+.carousel-item-prev.carousel-item-right,
-  .carousel-item-prev.carousel-item-right+.carousel-item,
-  .carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item {
+  .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+  .carousel-item-prev.carousel-item-right + .carousel-item,
+  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item {
     position: relative;
     transform: translate3d(100%, 0, 0);
     visibility: visible;

@@ -1,10 +1,13 @@
+@use '../base/colors' as colors;
+@use '../base/fonts' as fonts;
+
 .contact {
   &-box {
     padding: 30px 20px;
-    background-color: $white;
+    background-color: colors.$white;
     border-radius: 10px;
-    border-bottom: 1px solid rgba(0, 0, 0, .2);
-    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   }
 
   &-info {
@@ -16,7 +19,7 @@
     .contact {
       margin-top: 24px;
 
-      >div {
+      > div {
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -30,13 +33,13 @@
   }
 
   sup {
-    color: $candy-apple;
-    font-weight: $font-weight-bold;
+    color: colors.$candy-apple;
+    font-weight: fonts.$font-weight-bold;
   }
 
   label {
     font-family: Soho Medium;
-    font-size: $font-size-small;
+    font-size: fonts.$font-size-small;
   }
 
   .form-control {
@@ -45,7 +48,7 @@
     &:active,
     &:focus,
     &:hover {
-      border-color: $persian-green;
+      border-color: colors.$persian-green;
     }
   }
 
