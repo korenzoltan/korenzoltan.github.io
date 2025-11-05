@@ -1,3 +1,5 @@
+@use '../base/colors' as colors;
+
 .video {
   position: relative;
   width: 100%;
@@ -7,7 +9,7 @@
   a {
     display: inline-block;
     width: 100%;
-    background-color: $black;
+    background-color: colors.$black;
 
     &::after {
       content: '';

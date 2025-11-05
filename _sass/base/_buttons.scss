@@ -1,11 +1,13 @@
+@use 'colors' as colors;
+
 .btn {
   &--bg-color {
     &-persian-green {
-      color: $white !important;
-      background-color: $persian-green;
+      color: colors.$white !important;
+      background-color: colors.$persian-green;
 
       &:hover {
-        background-color: $persian-green-2;
+        background-color: colors.$persian-green-2;
       }
     }
   }

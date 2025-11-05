@@ -1,18 +1,18 @@
 const gulp = require('gulp');
 const spawn = require('child_process').spawn;
 const sass = require('gulp-sass')(require('sass'));
-const sourcemaps = require('gulp-sourcemaps');
 const postcss = require('gulp-postcss');
+const sourcemaps = require('gulp-sourcemaps');
 const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
-const purgecss = require('@fullhuman/postcss-purgecss');
+const purgecss = require('@fullhuman/postcss-purgecss').default;
 const concat = require('gulp-concat');
 const terser = require('gulp-terser');
 const imagemin = require('gulp-imagemin');
 const jpegtran = require('imagemin-jpegtran');
 const optipng = require('imagemin-optipng');
 const gm = require('gulp-gm');
-const del = require('del');
+const { deleteAsync } = require('del');
 const browserSync = require('browser-sync').create();
 
 const siteRoot = '_site';
@@ -34,13 +34,54 @@ function doSpawn(argument, cb) {
 gulp.task('vendor-css', function () {
   const processors = [
     purgecss({
-      content: ['./_includes/**/*.html', './_layouts/**/*.html'],
+      content: [
+        './_site/**/*.html',
+        './_includes/**/*.html',
+        './_layouts/**/*.html',
+        './**/*.js',
+      ],
+      safelist: [
+        /^modal/,
+        /^fade/,
+        /^show/,
+        /^collapse/,
+        /^collapsing/,
+        /^dropdown/,
+        /^dropup/,
+        /^dropright/,
+        /^dropleft/,
+        /^tooltip/,
+        /^popover/,
+        /^carousel/,
+        /^offcanvas/,
+        /^navbar/,
+        /^nav/,
+        /^tab/,
+        /^pill/,
+        /^btn/,
+        /^alert/,
+        /^badge/,
+        /^toast/,
+        /^accordion/,
+        /^progress/,
+        /^spinner/,
+        /^d-/,
+        /^flex-/,
+        /^justify-/,
+        /^align-/,
+        /^text-/,
+        /^bg-/,
+        /^border-/,
+        /^shadow/,
+      ],
+      defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
     }),
     autoprefixer,
     cssnano,
   ];
+
   return gulp
-    .src(['node_modules/bootstrap/scss/bootstrap.scss'])
+    .src('node_modules/bootstrap/dist/css/bootstrap.css')
     .pipe(sourcemaps.init())
     .pipe(sass().on('error', sass.logError))
     .pipe(postcss(processors))
@@ -66,13 +107,14 @@ gulp.task('vendor-js', function () {
     .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('vendor-clean', function (done) {
-  del(['assets/css/vendor*', 'assets/js/vendor*']);
+gulp.task('vendor-clean', async function (done) {
+  await deleteAsync(['assets/css/vendor*', 'assets/js/vendor*']);
   done();
 });
 
 gulp.task('fancybox-css', function () {
   const processors = [autoprefixer, cssnano];
+
   return gulp
     .src(['node_modules/@fancyapps/fancybox/dist/jquery.fancybox.min.css'])
     .pipe(sourcemaps.init())
@@ -82,13 +124,14 @@ gulp.task('fancybox-css', function () {
     .pipe(gulp.dest('assets/css'));
 });
 
-gulp.task('fancybox-css-clean', function (done) {
-  del(['assets/css/fancybox*']);
+gulp.task('fancybox-css-clean', async function (done) {
+  await deleteAsync(['assets/css/fancybox*']);
   done();
 });
 
 gulp.task('css', function () {
   const processors = [autoprefixer, cssnano];
+
   return gulp
     .src('_sass/styles.scss')
     .pipe(sourcemaps.init())
@@ -99,8 +142,8 @@ gulp.task('css', function () {
     .pipe(gulp.dest('assets/css'));
 });
 
-gulp.task('css-clean', function (done) {
-  del(['assets/css/main*']);
+gulp.task('css-clean', async function (done) {
+  await deleteAsync(['assets/css/main*']);
   done();
 });
 
@@ -114,52 +157,36 @@ gulp.task('js', function () {
     .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('js-clean', function (done) {
-  del(['assets/js/main*']);
+gulp.task('js-clean', async function (done) {
+  await deleteAsync(['assets/js/main*']);
   done();
 });
 
 gulp.task('imagegm-home-tools', function () {
   return gulp
     .src('assets/images/home/tools/**/*')
-    .pipe(
-      gm(function (gmfile) {
-        return gmfile.resize(1366, 768);
-      })
-    )
+    .pipe(gm((gmfile) => gmfile.resize(1366, 768)))
     .pipe(gulp.dest('assets/images/home/tools'));
 });
 
 gulp.task('imagegm-home-tools-thumbnail', function () {
   return gulp
     .src('assets/images/home/tools/**/*')
-    .pipe(
-      gm(function (gmfile) {
-        return gmfile.resize(290, 190);
-      })
-    )
+    .pipe(gm((gmfile) => gmfile.resize(290, 190)))
     .pipe(gulp.dest('assets/images/thumbnail/home/tools'));
 });
 
 gulp.task('imagegm-promobike-pages-thumbnail', function () {
   return gulp
     .src('assets/images/promobike/**/*')
-    .pipe(
-      gm(function (gmfile) {
-        return gmfile.resize(450);
-      })
-    )
+    .pipe(gm((gmfile) => gmfile.resize(450)))
     .pipe(gulp.dest('assets/images/thumbnail/promobike'));
 });
 
 gulp.task('imagegm-promovan-pages-thumbnail', function () {
   return gulp
     .src('assets/images/promovan/**/*')
-    .pipe(
-      gm(function (gmfile) {
-        return gmfile.resize(450);
-      })
-    )
+    .pipe(gm((gmfile) => gmfile.resize(450)))
     .pipe(gulp.dest('assets/images/thumbnail/promovan'));
 });
 
@@ -198,8 +225,8 @@ gulp.task(
   )
 );
 
-gulp.task('thumbnail-clean', function (done) {
-  del(['assets/images/thumbnail']);
+gulp.task('thumbnail-clean', async function (done) {
+  await deleteAsync(['assets/images/thumbnail']);
   done();
 });
 
@@ -238,6 +265,7 @@ gulp.task('watch', function (done) {
       'en/**/*.*',
       'es/**/*.*',
       'hu/**/*.*',
+      'sk/**/*.*',
     ],
     gulp.series('jekyll-build')
   );

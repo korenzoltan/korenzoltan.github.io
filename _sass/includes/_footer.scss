@@ -1,10 +1,13 @@
+@use '../base/colors' as colors;
+@use '../base/fonts' as fonts;
+
 .footer {
   padding: 30px 0;
-  color: $white;
-  background-color: $black;
+  color: colors.$white;
+  background-color: colors.$black;
 
   hr {
-    border-color: $cod-gray;
+    border-color: colors.$cod-gray;
   }
 
   .social-media {
@@ -83,7 +86,7 @@
 
   .copyright {
     padding: 20px 0px;
-    font-size: $font-size-extra-small;
+    font-size: fonts.$font-size-extra-small;
 
     a:not(:last-child) {
       margin: 0 5px;
@@ -108,7 +111,7 @@
 @media screen and (min-width: 768px) {
   .footer {
     .description {
-      font-size: $font-size-small;
+      font-size: fonts.$font-size-small;
     }
 
     .copyright {
@@ -130,7 +133,7 @@
     }
 
     .description {
-      font-size: $font-size-extra-small;
+      font-size: fonts.$font-size-extra-small;
     }
 
     .copyright {

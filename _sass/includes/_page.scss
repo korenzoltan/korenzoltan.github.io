@@ -1,3 +1,5 @@
+@use '../base/colors' as colors;
+
 .page {
   .container {
     position: relative;
@@ -11,8 +13,8 @@
     a {
       display: inline-block;
       width: 100%;
-      background-color: $black;
-      border: 4px solid $geyser;
+      background-color: colors.$black;
+      border: 4px solid colors.$geyser;
       border-radius: 4px;
 
       &::after {
