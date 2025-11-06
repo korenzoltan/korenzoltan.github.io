@@ -1,6 +1,8 @@
 // ---------------------------------------------------------------------------
 // 📦 Dependencies
 // ---------------------------------------------------------------------------
+const fs = require('fs');
+const path = require('path');
 const gulp = require('gulp');
 const { spawn, exec } = require('child_process');
 const sass = require('gulp-sass')(require('sass'));
@@ -11,11 +13,6 @@ const cssnano = require('cssnano');
 const purgecss = require('@fullhuman/postcss-purgecss').default;
 const concat = require('gulp-concat');
 const terser = require('gulp-terser');
-const plumber = require('gulp-plumber');
-const debug = require('gulp-debug');
-const size = require('gulp-size');
-const path = require('path');
-const fs = require('fs');
 const browserSync = require('browser-sync').create();
 
 // ---------------------------------------------------------------------------
@@ -49,11 +46,13 @@ function ensureImageMagick(cb) {
 // ---------------------------------------------------------------------------
 function collectImages(dir, exts = ['.jpg', '.jpeg', '.png', '.webp']) {
   let files = [];
+
   if (!fs.existsSync(dir)) return files;
 
   for (const entry of fs.readdirSync(dir)) {
     const fullPath = path.join(dir, entry);
     const stat = fs.statSync(fullPath);
+
     if (stat.isDirectory()) {
       files = files.concat(collectImages(fullPath, exts));
     } else if (exts.includes(path.extname(fullPath).toLowerCase())) {
@@ -68,6 +67,7 @@ function collectImages(dir, exts = ['.jpg', '.jpeg', '.png', '.webp']) {
 // ---------------------------------------------------------------------------
 function resizeWithConvert(src, dest, width, height, cb) {
   const outDir = path.dirname(dest);
+
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
   const cmd = `convert "${src}" -resize ${width}x${height} -strip -quality 85 "${dest}"`;
@@ -264,11 +264,13 @@ gulp.task('js', function () {
 // ---------------------------------------------------------------------------
 gulp.task('clean-thumbnails', async function () {
   const { deleteAsync } = await import('del');
+
   return deleteAsync(['assets/images/thumbnail']);
 });
 
 gulp.task('clean-css', async function () {
   const { deleteAsync } = await import('del');
+
   return deleteAsync([
     'assets/css/*.css',
     '!assets/css/vendor*',
