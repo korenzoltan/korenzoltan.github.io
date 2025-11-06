@@ -4,5 +4,5 @@
 
 For more information, see:
 
-- [Installation](installation.md) (English)
+- [Development](development.md) (English)
 - [Használati útmutató](users-guide.md) (Hungarian)
